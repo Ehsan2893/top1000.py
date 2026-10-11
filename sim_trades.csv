@@ -41,3 +41,9 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-11 18:45,lev3_trail,PLUME,0.0208377,0.02122739,1.87,4.4,0.352,TRAIL,73
 10-11 18:45,lev3_trail,EDU,0.073978,0.073132,-1.14,-4.6,-0.371,SL,56
 10-11 18:45,lev3_trail,ZEC,1290.29,1274.71,-1.21,-4.8,-0.386,SL,56
+10-11 19:01,spot_fixed,FIL,1.15,1.16,0.87,0.5,0.038,TIME,72
+10-11 19:01,spot_trail,FIL,1.15,1.16,0.87,0.5,0.038,TIME,72
+10-11 19:01,spot_trail,BP,1.19,1.19,0.0,-0.4,-0.032,TIME,72
+10-11 19:01,lev3_fixed,FIL,1.15,1.16,0.87,1.4,0.112,TIME,72
+10-11 19:01,lev3_trail,FIL,1.15,1.16,0.87,1.4,0.112,TIME,72
+10-11 19:01,lev3_trail,BP,1.19,1.19,0.0,-1.2,-0.096,TIME,72
