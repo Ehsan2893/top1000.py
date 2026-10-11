@@ -99,3 +99,5 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-11 21:20,lev3_trail,FIL,1.26,1.23,-2.38,-8.3,-0.668,SL,20
 10-11 21:38,spot_fixed,AZTEC,0.01821532,0.01802011,-1.07,-1.5,-0.118,SL,72
 10-11 21:38,lev3_fixed,AZTEC,0.01821532,0.01802011,-1.07,-4.4,-0.354,SL,72
+10-11 21:55,spot_fixed,币安人生,0.618786,0.6335,2.38,2.0,0.158,TP,17
+10-11 21:55,lev3_fixed,币安人生,0.618786,0.6335,2.38,5.9,0.475,TP,17
