@@ -27,3 +27,7 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-11 17:49,lev3_trail,VVV,24.29,24.53,0.99,1.8,0.141,TIME,72
 10-11 17:49,lev3_trail,ZRO,2.07,2.11,1.93,4.6,0.367,TIME,72
 10-11 17:49,lev3_trail,W,0.01776925,0.01959273,10.26,29.6,2.366,TIME,72
+10-11 18:23,spot_fixed,STX,0.397224,0.399085,0.47,0.1,0.005,TIME,70
+10-11 18:23,spot_fixed,PLUME,0.0208377,0.02150361,3.2,2.8,0.224,TP,51
+10-11 18:23,lev3_fixed,STX,0.397224,0.399085,0.47,0.2,0.016,TIME,70
+10-11 18:23,lev3_fixed,PLUME,0.0208377,0.02150361,3.2,8.4,0.671,TP,51
