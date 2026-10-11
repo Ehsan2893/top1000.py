@@ -73,3 +73,7 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-11 20:26,lev3_fixed,RAY,2.46,2.41,-2.03,-7.3,-0.584,SL,33
 10-11 20:26,lev3_trail,ICP,3.29,3.35,1.82,4.3,0.341,TIME,66
 10-11 20:26,lev3_trail,RAY,2.46,2.41,-2.03,-7.3,-0.584,SL,33
+10-11 20:45,spot_fixed,DUSK,0.091137,0.089421,-1.88,-2.3,-0.183,SL,19
+10-11 20:45,spot_trail,FLOW,0.03477152,0.03551437,2.14,1.7,0.139,TRAIL,67
+10-11 20:45,lev3_fixed,DUSK,0.091137,0.089421,-1.88,-6.9,-0.548,SL,19
+10-11 20:45,lev3_trail,FLOW,0.03477152,0.03551437,2.14,5.2,0.416,TRAIL,67
