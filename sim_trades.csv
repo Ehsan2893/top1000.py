@@ -97,3 +97,5 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-11 21:20,lev3_trail,AZTEC,0.01821532,0.01808161,-0.73,-3.4,-0.272,TRAIL,54
 10-11 21:20,lev3_trail,ENA,0.23896,0.233207,-2.41,-8.4,-0.674,SL,35
 10-11 21:20,lev3_trail,FIL,1.26,1.23,-2.38,-8.3,-0.668,SL,20
+10-11 21:38,spot_fixed,AZTEC,0.01821532,0.01802011,-1.07,-1.5,-0.118,SL,72
+10-11 21:38,lev3_fixed,AZTEC,0.01821532,0.01802011,-1.07,-4.4,-0.354,SL,72
