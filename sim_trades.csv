@@ -115,3 +115,5 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-11 22:50,lev3_trail,AXL,0.057783,0.05789,0.19,-0.6,-0.052,TIME,72
 10-11 22:50,lev3_trail,MON,0.02680054,0.02762828,3.09,8.1,0.645,TIME,72
 10-11 22:50,lev3_trail,ZRO,2.09,2.1,0.48,0.2,0.018,TIME,72
+10-11 23:01,spot_fixed,MUBARAK,0.071996,0.072477,0.67,0.3,0.021,TIME,66
+10-11 23:01,lev3_fixed,MUBARAK,0.071996,0.072477,0.67,0.8,0.064,TIME,66
