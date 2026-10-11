@@ -1,0 +1,5 @@
+time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
+10-11 16:56,spot_fixed,W,0.01776925,0.01837407,3.4,3.0,0.24,TP,19
+10-11 16:56,spot_fixed,RAY,2.4,2.45,2.08,1.7,0.135,TP,19
+10-11 16:56,lev3_fixed,W,0.01776925,0.01837407,3.4,9.0,0.721,TP,19
+10-11 16:56,lev3_fixed,RAY,2.4,2.45,2.08,5.0,0.404,TP,19
