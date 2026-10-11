@@ -63,3 +63,5 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-11 19:53,lev3_trail,KMNO,0.03814357,0.03794593,-0.52,-2.8,-0.221,TIME,68
 10-11 19:53,lev3_trail,SOON,0.310673,0.309958,-0.23,-1.9,-0.152,TIME,68
 10-11 19:53,lev3_trail,ETHFI,0.747824,0.745639,-0.29,-2.1,-0.167,TIME,68
+10-11 20:07,spot_fixed,ICP,3.29,3.35,1.82,1.4,0.114,TP,47
+10-11 20:07,lev3_fixed,ICP,3.29,3.35,1.82,4.3,0.341,TP,47
