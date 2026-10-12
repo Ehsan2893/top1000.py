@@ -201,3 +201,7 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-12 04:52,lev3_trail,SNX,0.254486,0.254929,0.17,-0.7,-0.055,TIME,68
 10-12 04:52,lev3_trail,JTO,0.578806,0.57483,-0.69,-3.3,-0.261,TIME,68
 10-12 04:52,lev3_trail,AXS,1.26,1.26,0.0,-1.2,-0.096,TIME,68
+10-12 05:08,spot_fixed,ENA,0.24348,0.245308,0.75,0.4,0.028,TIME,65
+10-12 05:08,spot_trail,ENA,0.24348,0.245308,0.75,0.4,0.028,TIME,65
+10-12 05:08,lev3_fixed,ENA,0.24348,0.245308,0.75,1.0,0.084,TIME,65
+10-12 05:08,lev3_trail,ENA,0.24348,0.245308,0.75,1.0,0.084,TIME,65
