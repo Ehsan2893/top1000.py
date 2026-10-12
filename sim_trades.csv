@@ -338,3 +338,5 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-12 17:26,spot_trail,CFX,0.060599,0.059823,-1.28,-1.7,-0.134,SL,59
 10-12 17:26,lev3_fixed,CFX,0.060599,0.059823,-1.28,-5.0,-0.404,SL,59
 10-12 17:26,lev3_trail,CFX,0.060599,0.059823,-1.28,-5.0,-0.404,SL,59
+10-12 17:46,spot_fixed,STRK,0.095111,0.097168,2.16,1.8,0.141,TP,21
+10-12 17:46,lev3_fixed,STRK,0.095111,0.097168,2.16,5.3,0.423,TP,21
