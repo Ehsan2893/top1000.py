@@ -205,3 +205,6 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-12 05:08,spot_trail,ENA,0.24348,0.245308,0.75,0.4,0.028,TIME,65
 10-12 05:08,lev3_fixed,ENA,0.24348,0.245308,0.75,1.0,0.084,TIME,65
 10-12 05:08,lev3_trail,ENA,0.24348,0.245308,0.75,1.0,0.084,TIME,65
+10-12 05:31,spot_fixed,STONK,0.153344,0.155779,1.59,1.2,0.095,TP,39
+10-12 05:31,spot_fixed,LIT,3.92,3.98,1.53,1.1,0.09,TP,39
+10-12 05:31,lev3_fixed,STONK,0.153344,0.155779,1.59,3.6,0.285,TP,39
