@@ -393,3 +393,7 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-12 22:01,lev3_fixed,BTW,1.77,1.74,-1.69,-6.3,-0.503,SL,69
 10-12 22:01,lev3_trail,BTW,1.77,1.74,-1.69,-6.3,-0.503,TRAIL,69
 10-12 22:01,lev3_trail,DATA,0.214289,0.212498,-0.84,-3.7,-0.297,TRAIL,69
+10-12 23:19,spot_fixed,QNT,226.69,225.31,-0.61,-1.0,-0.081,TIME,79
+10-12 23:19,spot_trail,QNT,226.69,225.31,-0.61,-1.0,-0.081,TRAIL,79
+10-12 23:19,lev3_fixed,QNT,226.69,225.31,-0.61,-3.0,-0.243,TIME,79
+10-12 23:19,lev3_trail,QNT,226.69,225.31,-0.61,-3.0,-0.243,TRAIL,79
