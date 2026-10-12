@@ -351,3 +351,4 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-12 18:26,lev3_trail,STRK,0.095111,0.09869,3.76,10.1,0.807,TIME,60
 10-12 18:26,lev3_trail,STX,0.406481,0.407256,0.19,-0.6,-0.051,TIME,60
 10-12 18:26,lev3_trail,UB,0.130776,0.129127,-1.26,-5.0,-0.399,SL,60
+10-12 18:52,spot_trail,SAFE,0.129945,0.13308,2.41,2.0,0.161,TIME,65
