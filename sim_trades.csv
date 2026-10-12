@@ -370,3 +370,5 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-12 20:04,spot_fixed,SOON,0.304789,0.306261,0.48,0.1,0.007,TIME,73
 10-12 20:04,spot_trail,AKE,0.02456063,0.02429206,-1.09,-1.5,-0.119,SL,73
 10-12 20:04,spot_trail,SOON,0.304789,0.306261,0.48,0.1,0.007,TIME,73
+10-12 20:27,spot_fixed,HUMA,0.03401447,0.03411999,0.31,-0.1,-0.007,TIME,79
+10-12 20:27,lev3_fixed,HUMA,0.03401447,0.03411999,0.31,-0.3,-0.022,TIME,79
