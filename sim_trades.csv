@@ -381,3 +381,9 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-12 21:06,spot_fixed,RENDER,2.13,2.1,-1.41,-1.8,-0.145,SL,39
 10-12 21:06,spot_trail,RENDER,2.13,2.1,-1.41,-1.8,-0.145,SL,39
 10-12 21:06,lev3_fixed,RENDER,2.13,2.1,-1.41,-5.4,-0.434,SL,39
+10-12 21:46,spot_fixed,MERL,0.03057489,0.03070469,0.42,0.0,0.002,TIME,79
+10-12 21:46,spot_fixed,ETHFI,0.713184,0.713095,-0.01,-0.4,-0.033,TIME,79
+10-12 21:46,spot_fixed,STONK,0.144314,0.136662,-5.3,-5.7,-0.456,SL,40
+10-12 21:46,spot_trail,MERL,0.03057489,0.03070469,0.42,0.0,0.002,TIME,79
+10-12 21:46,spot_trail,STONK,0.144314,0.136662,-5.3,-5.7,-0.456,SL,40
+10-12 21:46,lev3_fixed,STONK,0.144314,0.136662,-5.3,-17.1,-1.369,SL,40
