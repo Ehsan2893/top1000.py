@@ -378,3 +378,6 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-12 20:51,lev3_fixed,SOON,0.307912,0.305731,-0.71,-3.3,-0.266,TIME,82
 10-12 20:51,lev3_trail,SOON,0.307912,0.305731,-0.71,-3.3,-0.266,TIME,82
 10-12 20:51,lev3_trail,SENT,0.02101446,0.02122243,0.99,1.8,0.141,TRAIL,82
+10-12 21:06,spot_fixed,RENDER,2.13,2.1,-1.41,-1.8,-0.145,SL,39
+10-12 21:06,spot_trail,RENDER,2.13,2.1,-1.41,-1.8,-0.145,SL,39
+10-12 21:06,lev3_fixed,RENDER,2.13,2.1,-1.41,-5.4,-0.434,SL,39
