@@ -259,3 +259,7 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-12 08:53,spot_trail,PYTH,0.081704,0.084086,2.92,2.5,0.201,TIME,74
 10-12 08:53,lev3_fixed,ARX,0.309417,0.312542,1.01,1.8,0.146,TIME,74
 10-12 08:53,lev3_trail,PYTH,0.081704,0.084086,2.92,7.5,0.603,TIME,74
+10-12 09:12,spot_fixed,RENDER,2.06,2.09,1.46,1.1,0.085,TIME,71
+10-12 09:12,spot_trail,RENDER,2.06,2.09,1.46,1.1,0.085,TIME,71
+10-12 09:12,lev3_fixed,RENDER,2.06,2.09,1.46,3.2,0.253,TIME,71
+10-12 09:12,lev3_trail,RENDER,2.06,2.09,1.46,3.2,0.253,TIME,71
