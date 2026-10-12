@@ -315,3 +315,5 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-12 14:59,lev3_fixed,AI,0.094429,0.08966,-5.05,-16.4,-1.308,SL,26
 10-12 14:59,lev3_trail,PRL,1.48,1.45,-2.03,-7.3,-0.583,SL,26
 10-12 14:59,lev3_trail,AI,0.094429,0.08966,-5.05,-16.4,-1.308,SL,26
+10-12 15:22,spot_fixed,CARDS,0.297806,0.302997,1.74,1.3,0.107,TP,24
+10-12 15:22,lev3_fixed,CARDS,0.297806,0.302997,1.74,4.0,0.322,TP,24
