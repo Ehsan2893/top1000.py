@@ -437,3 +437,10 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-13 04:28,spot_fixed,FIL,1.15,1.16,0.87,0.5,0.038,TIME,64
 10-13 04:28,spot_fixed,ETHFI,0.699127,0.712774,1.95,1.6,0.124,TP,40
 10-13 04:28,lev3_fixed,ETHFI,0.699127,0.712774,1.95,4.7,0.372,TP,40
+10-13 04:53,spot_fixed,INJ,7.57,7.68,1.45,1.1,0.084,TIME,65
+10-13 04:53,spot_trail,ETHFI,0.699127,0.717,2.56,2.2,0.173,TIME,65
+10-13 04:53,spot_trail,INJ,7.57,7.68,1.45,1.1,0.084,TIME,65
+10-13 04:53,spot_trail,USELESS,0.17421,0.177031,1.62,1.2,0.098,TIME,65
+10-13 04:53,spot_trail,MSTRB,153.48,154.09,0.4,-0.0,-0.0,TIME,65
+10-13 04:53,lev3_trail,ETHFI,0.699127,0.717,2.56,6.5,0.517,TIME,65
+10-13 04:53,lev3_trail,INJ,7.57,7.68,1.45,3.2,0.252,TIME,65
