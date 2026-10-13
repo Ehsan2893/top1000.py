@@ -514,3 +514,7 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-13 09:56,spot_fixed,AMP,0.00066242,0.00068641,3.62,3.2,0.258,TP,21
 10-13 09:56,spot_trail,AI,0.086033,0.088452,2.81,2.4,0.193,TIME,63
 10-13 09:56,lev3_fixed,BTW,1.83,1.86,1.64,3.7,0.297,TP,45
+10-13 10:17,spot_trail,BTW,1.83,1.88,2.73,2.3,0.187,TIME,67
+10-13 10:17,spot_trail,AMP,0.00066242,0.00067278,1.56,1.2,0.093,TRAIL,42
+10-13 10:17,lev3_trail,BTW,1.83,1.88,2.73,7.0,0.559,TIME,67
+10-13 10:17,lev3_trail,AMP,0.00066242,0.00067278,1.56,3.5,0.279,TRAIL,42
