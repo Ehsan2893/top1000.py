@@ -584,3 +584,7 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-13 19:06,spot_trail,DYDX,0.136532,0.137232,0.51,0.1,0.009,TIME,77
 10-13 19:06,lev3_fixed,DYDX,0.136532,0.137232,0.51,0.3,0.027,TIME,77
 10-13 19:06,lev3_trail,DYDX,0.136532,0.137232,0.51,0.3,0.027,TIME,77
+10-13 19:39,spot_fixed,LIT,3.42,3.36,-1.75,-2.2,-0.172,SL,33
+10-13 19:39,spot_trail,OP,0.148038,0.153696,3.82,3.4,0.274,TIME,66
+10-13 19:39,lev3_trail,OP,0.148038,0.153696,3.82,10.3,0.821,TIME,66
+10-13 19:39,lev3_trail,LIT,3.42,3.36,-1.75,-6.5,-0.517,SL,33
