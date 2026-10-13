@@ -432,3 +432,5 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-13 03:48,lev3_fixed,MERL,0.03300409,0.03211974,-2.68,-9.2,-0.739,SL,24
 10-13 03:48,lev3_trail,TIA,0.56736,0.58852,3.73,10.0,0.799,TIME,65
 10-13 03:48,lev3_trail,MERL,0.03300409,0.03211974,-2.68,-9.2,-0.739,SL,24
+10-13 04:05,spot_fixed,TRAC,0.403747,0.40436,0.15,-0.2,-0.02,TIME,63
+10-13 04:05,lev3_fixed,TRAC,0.403747,0.40436,0.15,-0.7,-0.06,TIME,63
