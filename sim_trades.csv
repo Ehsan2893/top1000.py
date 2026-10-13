@@ -416,3 +416,5 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-13 01:41,spot_trail,CAP,0.097378,0.097813,0.45,0.0,0.004,TIME,79
 10-13 01:41,lev3_fixed,CAP,0.097378,0.097813,0.45,0.1,0.011,TIME,79
 10-13 01:41,lev3_trail,CAP,0.097378,0.097813,0.45,0.1,0.011,TIME,79
+10-13 03:02,spot_fixed,AZTEC,0.01994096,0.0203422,2.01,1.6,0.129,TP,40
+10-13 03:02,lev3_fixed,AZTEC,0.01994096,0.0203422,2.01,4.8,0.387,TP,40
