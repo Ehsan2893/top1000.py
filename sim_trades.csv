@@ -530,3 +530,5 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-13 12:36,spot_fixed,CC,0.123812,0.124028,0.17,-0.2,-0.018,TIME,70
 10-13 12:36,spot_trail,CC,0.123812,0.124028,0.17,-0.2,-0.018,TIME,70
 10-13 12:36,lev3_trail,CC,0.123812,0.124028,0.17,-0.7,-0.055,TIME,70
+10-13 13:35,spot_fixed,RIF,0.083279,0.085094,2.18,1.8,0.142,TP,59
+10-13 13:35,lev3_fixed,RIF,0.083279,0.085094,2.18,5.3,0.427,TP,59
