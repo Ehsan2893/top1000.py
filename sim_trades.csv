@@ -552,3 +552,5 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-13 15:13,spot_trail,SAFE,0.129787,0.135581,4.46,4.1,0.325,TIME,72
 10-13 15:13,lev3_trail,SAFE,0.129787,0.135581,4.46,12.2,0.975,TIME,72
 10-13 15:38,lev3_fixed,SAFE,0.133871,0.131636,-1.67,-6.2,-0.497,SL,46
+10-13 16:00,spot_fixed,DRV,0.432228,0.439288,1.63,1.2,0.099,TP,47
+10-13 16:00,lev3_trail,ZK,0.01654038,0.01634836,-1.16,-4.7,-0.375,TRAIL,47
