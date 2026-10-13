@@ -619,3 +619,7 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-13 22:41,spot_fixed,DATA,0.20752,0.207369,-0.07,-0.5,-0.038,TIME,90
 10-13 22:41,spot_trail,DATA,0.20752,0.207369,-0.07,-0.5,-0.038,TIME,90
 10-13 22:41,lev3_fixed,AI,0.088318,0.092301,4.51,12.3,0.986,TP,58
+10-13 23:07,spot_fixed,KMNO,0.03965834,0.0392719,-0.97,-1.4,-0.11,TIME,83
+10-13 23:07,spot_trail,KMNO,0.03965834,0.0392719,-0.97,-1.4,-0.11,TIME,83
+10-13 23:07,spot_trail,ASTER,0.709113,0.70526,-0.54,-0.9,-0.075,TIME,83
+10-13 23:07,lev3_trail,KMNO,0.03965834,0.0392719,-0.97,-4.1,-0.33,TIME,83
