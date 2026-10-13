@@ -560,3 +560,6 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-13 16:24,spot_trail,AKE,0.02502504,0.02559722,2.29,1.9,0.151,TIME,71
 10-13 16:24,lev3_trail,DRV,0.432228,0.441728,2.2,5.4,0.431,TIME,71
 10-13 16:24,lev3_trail,BTW,1.94,1.92,-1.03,-4.3,-0.344,SL,24
+10-13 16:48,spot_fixed,MARSCOIN,0.081978,0.081414,-0.69,-1.1,-0.087,TIME,69
+10-13 16:48,spot_trail,MARSCOIN,0.081978,0.081414,-0.69,-1.1,-0.087,TIME,69
+10-13 16:48,lev3_fixed,MARSCOIN,0.081978,0.081414,-0.69,-3.3,-0.262,TIME,69
