@@ -623,3 +623,6 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-13 23:07,spot_trail,KMNO,0.03965834,0.0392719,-0.97,-1.4,-0.11,TIME,83
 10-13 23:07,spot_trail,ASTER,0.709113,0.70526,-0.54,-0.9,-0.075,TIME,83
 10-13 23:07,lev3_trail,KMNO,0.03965834,0.0392719,-0.97,-4.1,-0.33,TIME,83
+10-13 23:35,spot_fixed,AZTEC,0.02058339,0.0204906,-0.45,-0.9,-0.068,TIME,86
+10-13 23:35,spot_trail,AZTEC,0.02058339,0.0204906,-0.45,-0.9,-0.068,TIME,86
+10-13 23:35,lev3_trail,AZTEC,0.02058339,0.0204906,-0.45,-2.6,-0.205,TIME,86
