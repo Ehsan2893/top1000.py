@@ -468,3 +468,6 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-13 06:20,spot_trail,DRV,0.433421,0.4251,-1.92,-2.3,-0.186,SL,24
 10-13 06:20,lev3_fixed,DRV,0.433421,0.4251,-1.92,-7.0,-0.557,SL,24
 10-13 06:20,lev3_trail,CKB,0.00163905,0.00167336,2.09,5.1,0.406,TIME,68
+10-13 06:51,spot_trail,PROM,5.41,5.29,-2.22,-2.6,-0.209,SL,56
+10-13 06:51,lev3_fixed,PROM,5.41,5.29,-2.22,-7.9,-0.629,SL,56
+10-13 06:51,lev3_trail,PROM,5.41,5.29,-2.22,-7.9,-0.629,SL,56
