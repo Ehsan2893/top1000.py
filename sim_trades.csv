@@ -507,3 +507,5 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-13 09:11,lev3_fixed,KAIA,0.04801519,0.04719654,-1.7,-6.3,-0.505,SL,18
 10-13 09:11,lev3_trail,AZTEC,0.021319,0.02108096,-1.12,-4.6,-0.364,SL,42
 10-13 09:11,lev3_trail,KAIA,0.04801519,0.04719654,-1.7,-6.3,-0.505,SL,18
+10-13 09:36,lev3_fixed,SYRUP,0.269038,0.263237,-2.16,-7.7,-0.614,SL,25
+10-13 09:36,lev3_trail,SYRUP,0.269038,0.263237,-2.16,-7.7,-0.614,SL,25
