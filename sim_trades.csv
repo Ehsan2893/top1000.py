@@ -434,3 +434,6 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-13 03:48,lev3_trail,MERL,0.03300409,0.03211974,-2.68,-9.2,-0.739,SL,24
 10-13 04:05,spot_fixed,TRAC,0.403747,0.40436,0.15,-0.2,-0.02,TIME,63
 10-13 04:05,lev3_fixed,TRAC,0.403747,0.40436,0.15,-0.7,-0.06,TIME,63
+10-13 04:28,spot_fixed,FIL,1.15,1.16,0.87,0.5,0.038,TIME,64
+10-13 04:28,spot_fixed,ETHFI,0.699127,0.712774,1.95,1.6,0.124,TP,40
+10-13 04:28,lev3_fixed,ETHFI,0.699127,0.712774,1.95,4.7,0.372,TP,40
