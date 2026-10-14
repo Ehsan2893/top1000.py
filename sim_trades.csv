@@ -706,3 +706,5 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-14 15:00,spot_trail,STRK,0.080503,0.077842,-3.31,-3.7,-0.296,SL,66
 10-14 15:00,lev3_fixed,STRK,0.080503,0.077842,-3.31,-11.1,-0.89,SL,66
 10-14 15:00,lev3_trail,STRK,0.080503,0.077842,-3.31,-11.1,-0.89,SL,66
+10-14 15:37,spot_fixed,AKE,0.02532624,0.0259022,2.27,1.9,0.15,TP,38
+10-14 15:37,lev3_fixed,AKE,0.02532624,0.0259022,2.27,5.6,0.45,TP,38
