@@ -714,3 +714,7 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-14 16:13,spot_trail,QNT,204.67,209.12,2.17,1.8,0.142,TIME,73
 10-14 16:13,spot_trail,GRASS,0.697552,0.649324,-6.91,-7.3,-0.585,SL,73
 10-14 16:13,lev3_trail,AKE,0.02532624,0.02575247,1.68,3.8,0.307,TIME,73
+10-14 16:52,spot_fixed,PRL,1.98,1.95,-1.52,-1.9,-0.153,SL,39
+10-14 16:52,spot_trail,PRL,1.98,1.95,-1.52,-1.9,-0.153,SL,39
+10-14 16:52,lev3_fixed,PRL,1.98,1.95,-1.52,-5.7,-0.46,SL,39
+10-14 16:52,lev3_trail,PRL,1.98,1.95,-1.52,-5.7,-0.46,SL,39
