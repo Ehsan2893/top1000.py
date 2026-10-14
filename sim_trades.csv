@@ -699,3 +699,6 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-14 12:34,spot_trail,POD,0.734571,0.724005,-1.44,-1.8,-0.147,TRAIL,73
 10-14 12:34,spot_trail,PUMP,0.005085,0.0050307,-1.07,-1.5,-0.117,SL,38
 10-14 12:34,lev3_trail,POD,0.734571,0.724005,-1.44,-5.5,-0.442,TRAIL,73
+10-14 13:15,spot_fixed,PYTH,0.083086,0.084064,1.18,0.8,0.062,TIME,79
+10-14 13:15,spot_trail,PYTH,0.083086,0.084064,1.18,0.8,0.062,TIME,79
+10-14 13:15,lev3_fixed,PYTH,0.083086,0.084064,1.18,2.3,0.186,TIME,79
