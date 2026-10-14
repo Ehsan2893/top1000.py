@@ -672,3 +672,7 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-14 05:58,spot_trail,BAT,0.197999,0.195388,-1.32,-1.7,-0.137,TRAIL,62
 10-14 05:58,spot_trail,KITE,0.13446,0.133096,-1.01,-1.4,-0.113,TRAIL,62
 10-14 05:58,lev3_trail,BAT,0.197999,0.195388,-1.32,-5.2,-0.413,TRAIL,62
+10-14 07:21,spot_fixed,DGAI,0.936574,0.932431,-0.44,-0.8,-0.067,TIME,83
+10-14 07:21,spot_trail,DGAI,0.936574,0.932431,-0.44,-0.8,-0.067,TIME,83
+10-14 07:21,lev3_fixed,DGAI,0.936574,0.932431,-0.44,-2.5,-0.203,TIME,83
+10-14 07:21,lev3_trail,DGAI,0.936574,0.932431,-0.44,-2.5,-0.203,TIME,83
