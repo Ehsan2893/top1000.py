@@ -691,3 +691,6 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-14 09:44,spot_trail,AZTEC,0.02043226,0.02041187,-0.1,-0.5,-0.04,TIME,70
 10-14 09:44,lev3_trail,AZTEC,0.02043226,0.02041187,-0.1,-1.5,-0.12,TIME,70
 10-14 11:21,lev3_trail,DUSK,0.10194,0.104855,2.86,7.4,0.59,TIME,66
+10-14 11:56,spot_fixed,AXL,0.061984,0.061954,-0.05,-0.4,-0.036,TIME,64
+10-14 11:56,spot_trail,AXL,0.061984,0.061954,-0.05,-0.4,-0.036,TIME,64
+10-14 11:56,lev3_fixed,AXL,0.061984,0.061954,-0.05,-1.3,-0.108,TIME,64
