@@ -676,3 +676,5 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-14 07:21,spot_trail,DGAI,0.936574,0.932431,-0.44,-0.8,-0.067,TIME,83
 10-14 07:21,lev3_fixed,DGAI,0.936574,0.932431,-0.44,-2.5,-0.203,TIME,83
 10-14 07:21,lev3_trail,DGAI,0.936574,0.932431,-0.44,-2.5,-0.203,TIME,83
+10-14 07:59,spot_fixed,GPS,0.0085303,0.00878198,2.95,2.6,0.204,TP,38
+10-14 07:59,lev3_fixed,GPS,0.0085303,0.00878198,2.95,7.6,0.612,TP,38
