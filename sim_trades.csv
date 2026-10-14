@@ -736,3 +736,5 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-14 19:10,spot_trail,FLUID,2.39,2.39,0.0,-0.4,-0.032,TIME,75
 10-14 19:10,lev3_fixed,BEAM,0.00284811,0.00289173,1.53,3.4,0.271,TP,75
 10-14 19:10,lev3_trail,BEAM,0.00284811,0.00289173,1.53,3.4,0.271,TIME,75
+10-14 19:44,spot_fixed,CARDS,0.277224,0.281621,1.59,1.2,0.095,TP,34
+10-14 19:44,lev3_fixed,CARDS,0.277224,0.281621,1.59,3.6,0.284,TP,34
