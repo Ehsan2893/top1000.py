@@ -663,3 +663,4 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-14 04:19,spot_trail,KAIA,0.04704835,0.04622473,-1.75,-2.2,-0.172,SL,27
 10-14 04:19,lev3_fixed,KAIA,0.04704835,0.04622473,-1.75,-6.5,-0.516,SL,27
 10-14 04:19,lev3_trail,KAIA,0.04704835,0.04622473,-1.75,-6.5,-0.516,SL,27
+10-14 04:56,spot_trail,ZRO,2.08,2.07,-0.48,-0.9,-0.07,TIME,64
