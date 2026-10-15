@@ -877,3 +877,10 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-15 19:51,spot_trail,BERA,0.237699,0.232846,-2.04,-2.4,-0.195,SL,67
 10-15 19:51,spot_trail,CASHCAT,0.125423,0.123344,-1.66,-2.1,-0.165,SL,32
 10-15 19:51,lev3_trail,BERA,0.237699,0.232846,-2.04,-7.3,-0.586,SL,67
+10-15 20:51,spot_fixed,EDU,0.073801,0.074518,0.97,0.6,0.046,TIME,92
+10-15 20:51,spot_fixed,FIL,1.15,1.16,0.87,0.5,0.038,TIME,61
+10-15 20:51,spot_fixed,PRL,1.87,1.89,1.07,0.7,0.054,TIME,61
+10-15 20:51,spot_trail,EDU,0.073801,0.074518,0.97,0.6,0.046,TIME,92
+10-15 20:51,spot_trail,FIL,1.15,1.16,0.87,0.5,0.038,TIME,61
+10-15 20:51,spot_trail,PRL,1.87,1.89,1.07,0.7,0.054,TIME,61
+10-15 20:51,lev3_trail,FIL,1.15,1.16,0.87,1.4,0.112,TIME,61
