@@ -838,3 +838,6 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-15 12:39,lev3_trail,TRAC,0.404213,0.399706,-1.12,-4.5,-0.364,SL,40
 10-15 13:23,spot_fixed,MEGA,0.04689981,0.04390423,-6.39,-6.8,-0.543,SL,83
 10-15 13:23,spot_trail,MEGA,0.04689981,0.04390423,-6.39,-6.8,-0.543,SL,83
+10-15 14:41,spot_fixed,DUSK,0.109051,0.114868,5.33,4.9,0.395,TP,78
+10-15 14:41,spot_trail,DUSK,0.109051,0.114868,5.33,4.9,0.395,TIME,78
+10-15 14:41,lev3_trail,DUSK,0.109051,0.114868,5.33,14.8,1.184,TIME,78
