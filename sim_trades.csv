@@ -899,3 +899,6 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-15 23:08,spot_trail,TRAC,0.432212,0.432104,-0.02,-0.4,-0.034,TIME,76
 10-15 23:08,spot_trail,CKB,0.0015387,0.00153831,-0.03,-0.4,-0.034,TIME,76
 10-15 23:08,lev3_trail,PLUME,0.02120702,0.02089014,-1.49,-5.7,-0.455,SL,19
+10-15 23:57,spot_fixed,UB,0.121538,0.121236,-0.25,-0.6,-0.052,TIME,68
+10-15 23:57,spot_fixed,POD,0.712484,0.726009,1.9,1.5,0.12,TP,49
+10-15 23:57,spot_trail,UB,0.121538,0.121236,-0.25,-0.6,-0.052,TIME,68
