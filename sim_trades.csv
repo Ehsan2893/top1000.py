@@ -844,3 +844,9 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-15 15:16,spot_fixed,USELESS,0.159139,0.168121,5.64,5.2,0.42,TP,35
 10-15 15:16,spot_fixed,PENDLE,2.0,2.06,3.0,2.6,0.208,TP,35
 10-15 15:16,spot_fixed,VVV,23.48,24.69,5.15,4.8,0.38,TP,35
+10-15 15:55,spot_fixed,ZEC,1149.61,1176.22,2.31,1.9,0.153,TP,39
+10-15 15:55,spot_fixed,WAL,0.055845,0.053803,-3.66,-4.1,-0.325,SL,39
+10-15 15:55,spot_trail,USELESS,0.159139,0.167731,5.4,5.0,0.4,TIME,74
+10-15 15:55,spot_trail,PENDLE,2.0,2.07,3.5,3.1,0.248,TIME,74
+10-15 15:55,spot_trail,VVV,23.48,24.9,6.05,5.6,0.452,TIME,74
+10-15 15:55,lev3_trail,USELESS,0.159139,0.167731,5.4,15.0,1.199,TIME,74
