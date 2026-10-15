@@ -857,3 +857,4 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-15 17:04,spot_trail,0G,0.251497,0.251771,0.11,-0.3,-0.023,TIME,69
 10-15 17:04,spot_trail,ZBCN,0.00223702,0.00223921,0.1,-0.3,-0.024,TIME,69
 10-15 17:04,lev3_trail,BAT,0.190241,0.186511,-1.96,-7.1,-0.567,SL,69
+10-15 17:35,spot_fixed,CRV,0.360992,0.360072,-0.25,-0.7,-0.052,TIME,70
