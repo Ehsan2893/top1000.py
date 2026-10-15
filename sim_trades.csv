@@ -784,3 +784,7 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-15 02:18,spot_fixed,POD,0.769686,0.752951,-2.17,-2.6,-0.206,SL,27
 10-15 02:18,spot_trail,RLC,0.843638,0.844113,0.06,-0.3,-0.027,TIME,61
 10-15 02:18,spot_trail,POD,0.769686,0.752951,-2.17,-2.6,-0.206,SL,27
+10-15 02:54,spot_fixed,BERA,0.23878,0.239683,0.38,-0.0,-0.002,TIME,63
+10-15 02:54,spot_trail,BERA,0.23878,0.239683,0.38,-0.0,-0.002,TIME,63
+10-15 02:54,lev3_fixed,BERA,0.23878,0.239683,0.38,-0.1,-0.006,TIME,63
+10-15 02:54,lev3_trail,BERA,0.23878,0.239683,0.38,-0.1,-0.006,TIME,63
