@@ -891,3 +891,4 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-15 21:52,spot_trail,PLUME,0.02001302,0.02010095,0.44,0.0,0.003,TIME,61
 10-15 21:52,spot_trail,SOON,0.307521,0.304859,-0.87,-1.3,-0.101,TIME,61
 10-15 21:52,lev3_trail,RAIN,0.00957056,0.00954952,-0.22,-1.9,-0.149,TIME,61
+10-15 22:18,spot_fixed,STONK,0.121312,0.125804,3.7,3.3,0.264,TP,26
