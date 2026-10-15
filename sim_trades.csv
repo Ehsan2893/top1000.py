@@ -829,3 +829,5 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-15 11:26,spot_trail,ARX,0.247377,0.242527,-1.96,-2.4,-0.189,TRAIL,67
 10-15 11:26,spot_trail,ZAMA,0.070126,0.070706,0.83,0.4,0.034,TIME,67
 10-15 11:26,lev3_trail,ARX,0.247377,0.242527,-1.96,-7.1,-0.567,TRAIL,67
+10-15 11:59,spot_fixed,FLUID,2.3,2.32,0.87,0.5,0.038,TIME,63
+10-15 11:59,spot_trail,FLUID,2.3,2.32,0.87,0.5,0.038,TIME,63
