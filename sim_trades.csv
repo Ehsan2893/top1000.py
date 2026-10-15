@@ -850,3 +850,4 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-15 15:55,spot_trail,PENDLE,2.0,2.07,3.5,3.1,0.248,TIME,74
 10-15 15:55,spot_trail,VVV,23.48,24.9,6.05,5.6,0.452,TIME,74
 10-15 15:55,lev3_trail,USELESS,0.159139,0.167731,5.4,15.0,1.199,TIME,74
+10-15 16:25,spot_fixed,RAY,1.86,1.83,-1.61,-2.0,-0.161,SL,69
