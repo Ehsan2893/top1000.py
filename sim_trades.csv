@@ -831,3 +831,8 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-15 11:26,lev3_trail,ARX,0.247377,0.242527,-1.96,-7.1,-0.567,TRAIL,67
 10-15 11:59,spot_fixed,FLUID,2.3,2.32,0.87,0.5,0.038,TIME,63
 10-15 11:59,spot_trail,FLUID,2.3,2.32,0.87,0.5,0.038,TIME,63
+10-15 12:39,spot_fixed,TRAC,0.404213,0.399706,-1.12,-1.5,-0.121,SL,40
+10-15 12:39,spot_fixed,ATOM,1.7,1.67,-1.76,-2.2,-0.173,SL,40
+10-15 12:39,spot_trail,TRAC,0.404213,0.399706,-1.12,-1.5,-0.121,SL,40
+10-15 12:39,spot_trail,ATOM,1.7,1.67,-1.76,-2.2,-0.173,SL,40
+10-15 12:39,lev3_trail,TRAC,0.404213,0.399706,-1.12,-4.5,-0.364,SL,40
