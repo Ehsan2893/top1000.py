@@ -995,3 +995,5 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-16 19:12,spot_fixed,SPX,0.349391,0.345153,-1.21,-1.6,-0.129,SL,33
 10-16 19:12,spot_trail,BTW,1.91,1.89,-1.05,-1.4,-0.116,SL,33
 10-16 19:12,spot_trail,SPX,0.349391,0.345153,-1.21,-1.6,-0.129,SL,33
+10-16 19:43,spot_fixed,MARSCOIN,0.079852,0.079315,-0.67,-1.1,-0.086,TIME,64
+10-16 19:43,spot_trail,MARSCOIN,0.079852,0.079315,-0.67,-1.1,-0.086,TIME,64
