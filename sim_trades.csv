@@ -918,3 +918,6 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-16 02:12,lev3_trail,CHIP,0.04842451,0.04977824,2.8,7.2,0.575,TIME,61
 10-16 03:51,spot_trail,DOT,1.18,1.15,-2.54,-2.9,-0.235,SL,64
 10-16 03:51,lev3_trail,DOT,1.18,1.15,-2.54,-8.8,-0.707,SL,64
+10-16 04:18,spot_fixed,TSLAX,373.23,374.49,0.34,-0.1,-0.005,TIME,64
+10-16 04:18,spot_fixed,Q,0.051365,0.052708,2.61,2.2,0.177,TP,27
+10-16 04:18,spot_trail,TSLAX,373.23,374.49,0.34,-0.1,-0.005,TIME,64
