@@ -951,3 +951,6 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-16 09:05,spot_fixed,GRASS,0.692967,0.684073,-1.28,-1.7,-0.135,SL,69
 10-16 09:05,spot_trail,UB,0.127235,0.126257,-0.77,-1.2,-0.093,TIME,69
 10-16 09:05,spot_trail,GRASS,0.692967,0.684073,-1.28,-1.7,-0.135,SL,69
+10-16 09:37,spot_fixed,ALGO,0.120114,0.119866,-0.21,-0.6,-0.049,TIME,69
+10-16 09:37,spot_trail,ALGO,0.120114,0.119866,-0.21,-0.6,-0.049,TIME,69
+10-16 09:37,lev3_trail,ALGO,0.120114,0.119866,-0.21,-1.8,-0.146,TIME,69
