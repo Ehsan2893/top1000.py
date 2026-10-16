@@ -1003,3 +1003,5 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-16 21:07,spot_trail,Q,0.056202,0.056032,-0.3,-0.7,-0.056,TIME,83
 10-16 21:07,spot_trail,SEI,0.065845,0.06437,-2.24,-2.6,-0.211,SL,61
 10-16 21:07,spot_trail,DUSK,0.12291,0.123322,0.34,-0.1,-0.005,TRAIL,61
+10-16 21:36,spot_fixed,CARDS,0.30211,0.299077,-1.0,-1.4,-0.112,SL,61
+10-16 21:36,spot_fixed,PYTH,0.085232,0.087126,2.22,1.8,0.146,TP,30
