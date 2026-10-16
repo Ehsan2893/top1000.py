@@ -944,3 +944,6 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-16 07:56,spot_fixed,FLOW,0.03224118,0.03204667,-0.6,-1.0,-0.08,TIME,83
 10-16 07:56,spot_trail,IMX,0.168725,0.16867,-0.03,-0.4,-0.035,TRAIL,83
 10-16 07:56,spot_trail,FLOW,0.03224118,0.03204667,-0.6,-1.0,-0.08,TIME,83
+10-16 08:28,spot_fixed,AERO,0.961955,0.946875,-1.57,-2.0,-0.157,SL,71
+10-16 08:28,spot_trail,AERO,0.961955,0.946875,-1.57,-2.0,-0.157,TRAIL,71
+10-16 08:28,lev3_trail,AERO,0.961955,0.946875,-1.57,-5.9,-0.473,TRAIL,71
