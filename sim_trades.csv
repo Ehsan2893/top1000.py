@@ -940,3 +940,7 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-16 07:17,spot_fixed,BTW,2.03,1.84,-9.36,-9.8,-0.781,SL,80
 10-16 07:17,spot_trail,BTW,2.03,1.84,-9.36,-9.8,-0.781,SL,80
 10-16 07:17,lev3_trail,BTW,2.03,1.84,-9.36,-29.3,-2.343,SL,80
+10-16 07:56,spot_fixed,IMX,0.168725,0.16867,-0.03,-0.4,-0.035,TIME,83
+10-16 07:56,spot_fixed,FLOW,0.03224118,0.03204667,-0.6,-1.0,-0.08,TIME,83
+10-16 07:56,spot_trail,IMX,0.168725,0.16867,-0.03,-0.4,-0.035,TRAIL,83
+10-16 07:56,spot_trail,FLOW,0.03224118,0.03204667,-0.6,-1.0,-0.08,TIME,83
