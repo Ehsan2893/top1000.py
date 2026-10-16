@@ -916,3 +916,5 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-16 02:12,spot_trail,BAN,0.054757,0.054515,-0.44,-0.8,-0.067,TIME,61
 10-16 02:12,spot_trail,GMX,8.67,8.69,0.23,-0.2,-0.014,TIME,61
 10-16 02:12,lev3_trail,CHIP,0.04842451,0.04977824,2.8,7.2,0.575,TIME,61
+10-16 03:51,spot_trail,DOT,1.18,1.15,-2.54,-2.9,-0.235,SL,64
+10-16 03:51,lev3_trail,DOT,1.18,1.15,-2.54,-8.8,-0.707,SL,64
