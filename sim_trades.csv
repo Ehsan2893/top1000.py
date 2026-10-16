@@ -1011,3 +1011,4 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-16 22:06,spot_trail,AI,0.097985,0.091251,-6.87,-7.3,-0.582,TRAIL,59
 10-16 22:06,spot_trail,W,0.0143423,0.01448534,1.0,0.6,0.048,TRAIL,59
 10-16 22:36,spot_trail,PYTH,0.085232,0.087904,3.13,2.7,0.219,TIME,90
+10-16 23:03,spot_trail,PUMP,0.00469805,0.00464892,-1.05,-1.4,-0.116,SL,27
