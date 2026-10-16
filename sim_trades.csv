@@ -973,3 +973,6 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-16 12:15,spot_trail,QNT,212.0,210.75,-0.59,-1.0,-0.079,TIME,61
 10-16 12:15,spot_trail,APE,0.154647,0.152315,-1.51,-1.9,-0.153,SL,25
 10-16 12:15,spot_trail,DUSK,0.122189,0.11636,-4.77,-5.2,-0.414,SL,25
+10-16 13:45,spot_fixed,A,0.102906,0.105078,2.11,1.7,0.137,TP,90
+10-16 13:45,spot_fixed,CAP,0.072932,0.074582,2.26,1.9,0.149,TP,40
+10-16 13:45,spot_trail,A,0.102906,0.105078,2.11,1.7,0.137,TIME,90
