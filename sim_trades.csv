@@ -981,3 +981,6 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-16 14:17,spot_trail,GMX,9.03,9.06,0.33,-0.1,-0.005,TIME,71
 10-16 14:55,spot_fixed,BTW,1.87,1.9,1.6,1.2,0.096,TP,70
 10-16 14:55,spot_trail,BTW,1.87,1.9,1.6,1.2,0.096,TIME,70
+10-16 15:24,spot_fixed,BR,0.365125,0.459579,25.87,25.5,2.038,TP,28
+10-16 15:24,spot_fixed,RSR,0.00199737,0.00195773,-1.98,-2.4,-0.191,SL,28
+10-16 15:24,spot_trail,RSR,0.00199737,0.00195773,-1.98,-2.4,-0.191,SL,28
