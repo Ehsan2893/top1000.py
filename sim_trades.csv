@@ -937,3 +937,6 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-16 06:33,spot_fixed,KAS,0.03696568,0.03702405,0.16,-0.2,-0.019,TIME,69
 10-16 06:33,spot_trail,KAS,0.03696568,0.03702405,0.16,-0.2,-0.019,TIME,69
 10-16 06:33,spot_trail,WAL,0.04908728,0.048559,-1.08,-1.5,-0.118,SL,36
+10-16 07:17,spot_fixed,BTW,2.03,1.84,-9.36,-9.8,-0.781,SL,80
+10-16 07:17,spot_trail,BTW,2.03,1.84,-9.36,-9.8,-0.781,SL,80
+10-16 07:17,lev3_trail,BTW,2.03,1.84,-9.36,-29.3,-2.343,SL,80
