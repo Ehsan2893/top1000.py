@@ -963,3 +963,7 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-16 10:46,lev3_trail,ZEREBRO,0.051551,0.04630038,-10.19,-31.8,-2.541,TRAIL,69
 10-16 11:14,spot_fixed,AVAX,10.33,10.34,0.1,-0.3,-0.024,TIME,63
 10-16 11:14,spot_trail,AVAX,10.33,10.34,0.1,-0.3,-0.024,TRAIL,63
+10-16 11:50,spot_fixed,RAY,1.94,1.95,0.52,0.1,0.009,TIME,64
+10-16 11:50,spot_fixed,KAS,0.03804597,0.03836617,0.84,0.4,0.035,TIME,64
+10-16 11:50,spot_trail,RAY,1.94,1.95,0.52,0.1,0.009,TIME,64
+10-16 11:50,spot_trail,KAS,0.03804597,0.03836617,0.84,0.4,0.035,TIME,64
