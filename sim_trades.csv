@@ -1044,3 +1044,5 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-17 06:32,spot_trail,NMR,12.24,12.28,0.33,-0.1,-0.006,TIME,62
 10-17 06:32,spot_trail,BR,0.37717,0.377713,0.14,-0.3,-0.02,TIME,62
 10-17 06:32,spot_trail,POD,0.625395,0.629399,0.64,0.2,0.019,TIME,62
+10-17 07:43,spot_fixed,W,0.01479993,0.01480875,0.06,-0.3,-0.027,TIME,71
+10-17 07:43,spot_trail,W,0.01479993,0.01480875,0.06,-0.3,-0.027,TRAIL,71
