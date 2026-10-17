@@ -1071,3 +1071,6 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-17 14:35,spot_fixed,AMP,0.00074295,0.00072759,-2.07,-2.5,-0.197,SL,50
 10-17 14:35,spot_fixed,ALEO,0.053898,0.056426,4.69,4.3,0.343,TP,50
 10-17 14:35,spot_trail,AMP,0.00074295,0.00072759,-2.07,-2.5,-0.197,TRAIL,50
+10-17 15:26,spot_fixed,BR,0.393197,0.385848,-1.87,-2.3,-0.182,SL,51
+10-17 15:26,spot_trail,ALEO,0.054481,0.056822,4.3,3.9,0.312,TRAIL,79
+10-17 15:26,spot_trail,BR,0.393197,0.385848,-1.87,-2.3,-0.182,SL,51
