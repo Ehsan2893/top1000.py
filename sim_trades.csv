@@ -1061,3 +1061,4 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-17 11:18,spot_fixed,MINA,0.079868,0.078959,-1.14,-1.5,-0.123,SL,51
 10-17 11:18,spot_trail,AXL,0.057319,0.056227,-1.91,-2.3,-0.184,SL,51
 10-17 11:18,spot_trail,MINA,0.079868,0.078959,-1.14,-1.5,-0.123,SL,51
+10-17 12:06,spot_fixed,MANA,0.089142,0.089627,0.54,0.1,0.012,TIME,71
