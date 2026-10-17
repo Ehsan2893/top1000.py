@@ -1084,3 +1084,5 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-17 18:57,spot_trail,MEGA,0.04497888,0.04565596,1.51,1.1,0.088,TIME,80
 10-17 18:57,spot_trail,RLC,0.793176,0.795535,0.3,-0.1,-0.008,TRAIL,59
 10-17 19:21,spot_fixed,ALT,0.00919996,0.00937271,1.88,1.5,0.118,TP,54
+10-17 19:44,spot_fixed,DUSK,0.120592,0.125325,3.92,3.5,0.282,TP,78
+10-17 19:44,spot_fixed,BR,0.438739,0.466843,6.41,6.0,0.48,TP,24
