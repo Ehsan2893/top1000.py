@@ -1014,3 +1014,5 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-16 23:03,spot_trail,PUMP,0.00469805,0.00464892,-1.05,-1.4,-0.116,SL,27
 10-16 23:53,spot_fixed,PRL,1.74,1.71,-1.72,-2.1,-0.17,SL,50
 10-16 23:53,spot_trail,PRL,1.74,1.71,-1.72,-2.1,-0.17,SL,50
+10-17 00:20,spot_fixed,MEGA,0.04652467,0.04740543,1.89,1.5,0.119,TP,77
+10-17 00:20,spot_trail,MEGA,0.04652467,0.04740543,1.89,1.5,0.119,TIME,77
