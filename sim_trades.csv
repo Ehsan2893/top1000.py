@@ -1053,3 +1053,7 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-17 09:04,spot_trail,SAND,0.057755,0.056835,-1.59,-2.0,-0.159,TRAIL,81
 10-17 09:04,spot_trail,CASHCAT,0.114155,0.113566,-0.52,-0.9,-0.073,TIME,81
 10-17 10:00,spot_fixed,RSR,0.00205273,0.00202189,-1.5,-1.9,-0.152,SL,84
+10-17 10:27,spot_fixed,NEAR,5.16,5.12,-0.78,-1.2,-0.094,TIME,83
+10-17 10:27,spot_fixed,WAL,0.04383853,0.04311922,-1.64,-2.0,-0.163,SL,55
+10-17 10:27,spot_trail,NEAR,5.16,5.12,-0.78,-1.2,-0.094,TIME,83
+10-17 10:27,spot_trail,WAL,0.04383853,0.04311922,-1.64,-2.0,-0.163,SL,55
