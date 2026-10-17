@@ -1077,3 +1077,4 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-17 15:54,spot_fixed,A,0.110281,0.108864,-1.28,-1.7,-0.135,SL,79
 10-17 15:54,spot_fixed,MANA,0.091826,0.089136,-2.93,-3.3,-0.266,SL,28
 10-17 15:54,spot_trail,MANA,0.091826,0.089136,-2.93,-3.3,-0.266,SL,28
+10-17 17:37,spot_fixed,PRL,1.84,1.87,1.63,1.2,0.098,TP,49
