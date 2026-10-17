@@ -1092,3 +1092,6 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-17 20:31,spot_fixed,W,0.01415531,0.01395697,-1.4,-1.8,-0.144,SL,47
 10-17 20:31,spot_trail,APE,0.152961,0.151192,-1.16,-1.6,-0.125,SL,28
 10-17 20:59,spot_fixed,FET,0.194442,0.194225,-0.11,-0.5,-0.041,TIME,74
+10-17 21:25,spot_fixed,MUBARAK,0.057046,0.056845,-0.35,-0.8,-0.06,TIME,82
+10-17 21:25,spot_trail,MUBARAK,0.057046,0.056845,-0.35,-0.8,-0.06,TIME,82
+10-17 21:25,spot_trail,HBAR,0.085031,0.085415,0.45,0.1,0.004,TIME,82
