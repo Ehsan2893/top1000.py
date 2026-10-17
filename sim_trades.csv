@@ -1066,3 +1066,4 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-17 13:14,spot_fixed,BERA,0.190447,0.186543,-2.05,-2.4,-0.196,SL,68
 10-17 13:14,spot_trail,DRV,0.427146,0.419328,-1.83,-2.2,-0.178,TRAIL,89
 10-17 13:14,spot_trail,BERA,0.190447,0.186543,-2.05,-2.4,-0.196,SL,68
+10-17 13:44,spot_fixed,ALT,0.00862358,0.00879308,1.97,1.6,0.125,TP,31
