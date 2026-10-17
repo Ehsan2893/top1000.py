@@ -1098,3 +1098,5 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-17 21:51,spot_fixed,SENT,0.02161393,0.02113425,-2.22,-2.6,-0.21,SL,53
 10-17 21:51,spot_fixed,HBAR,0.085393,0.083323,-2.42,-2.8,-0.226,SL,53
 10-17 21:51,spot_trail,DUSK,0.127513,0.124028,-2.73,-3.1,-0.251,SL,80
+10-17 23:44,spot_fixed,RAIN,0.00901077,0.0090107,-0.0,-0.4,-0.032,TIME,65
+10-17 23:44,spot_trail,RAIN,0.00901077,0.0090107,-0.0,-0.4,-0.032,TIME,65
