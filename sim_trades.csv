@@ -1032,3 +1032,9 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-17 04:04,spot_trail,KCS,7.51,7.49,-0.27,-0.7,-0.053,TIME,60
 10-17 04:04,spot_trail,RLC,0.83951,0.83786,-0.2,-0.6,-0.048,TIME,60
 10-17 04:04,spot_trail,AZTEC,0.02031148,0.0204882,0.87,0.5,0.038,TIME,60
+10-17 05:30,spot_fixed,BERA,0.187409,0.187825,0.22,-0.2,-0.014,TIME,86
+10-17 05:30,spot_fixed,ZRO,1.98,1.96,-1.01,-1.4,-0.113,SL,86
+10-17 05:30,spot_fixed,PROM,4.84,4.86,0.41,0.0,0.001,TIME,86
+10-17 05:30,spot_trail,BERA,0.187409,0.187825,0.22,-0.2,-0.014,TIME,86
+10-17 05:30,spot_trail,ZRO,1.98,1.96,-1.01,-1.4,-0.113,SL,86
+10-17 05:30,spot_trail,PROM,4.84,4.86,0.41,0.0,0.001,TIME,86
