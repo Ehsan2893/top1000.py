@@ -1091,3 +1091,4 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-17 20:03,spot_trail,AXL,0.057417,0.058041,1.09,0.7,0.055,TIME,66
 10-17 20:31,spot_fixed,W,0.01415531,0.01395697,-1.4,-1.8,-0.144,SL,47
 10-17 20:31,spot_trail,APE,0.152961,0.151192,-1.16,-1.6,-0.125,SL,28
+10-17 20:59,spot_fixed,FET,0.194442,0.194225,-0.11,-0.5,-0.041,TIME,74
