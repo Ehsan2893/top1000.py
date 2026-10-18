@@ -1110,3 +1110,4 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-18 02:15,spot_trail,PONS,0.292511,0.286053,-2.21,-2.6,-0.209,SL,56
 10-18 02:49,spot_fixed,DRV,0.405383,0.401083,-1.06,-1.5,-0.117,SL,59
 10-18 02:49,spot_trail,XMR,587.25,598.3,1.88,1.5,0.119,TIME,90
+10-18 03:46,spot_fixed,XMR,593.34,602.35,1.52,1.1,0.089,TP,92
