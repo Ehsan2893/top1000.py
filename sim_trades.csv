@@ -1106,3 +1106,5 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-18 01:18,spot_trail,牛来,0.058739,0.058387,-0.6,-1.0,-0.08,TRAIL,95
 10-18 01:18,spot_trail,CASHCAT,0.101416,0.102122,0.7,0.3,0.024,TIME,95
 10-18 01:50,spot_fixed,RSR,0.00208663,0.00206573,-1.0,-1.4,-0.112,SL,68
+10-18 02:15,spot_fixed,PONS,0.292511,0.286053,-2.21,-2.6,-0.209,SL,56
+10-18 02:15,spot_trail,PONS,0.292511,0.286053,-2.21,-2.6,-0.209,SL,56
