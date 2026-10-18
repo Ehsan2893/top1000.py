@@ -1153,3 +1153,6 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-18 17:43,spot_fixed,NEAR,4.81,4.76,-1.04,-1.4,-0.115,SL,28
 10-18 17:43,spot_trail,AIOZ,0.103699,0.103614,-0.08,-0.5,-0.039,TRAIL,51
 10-18 17:43,spot_trail,NEAR,4.81,4.76,-1.04,-1.4,-0.115,SL,28
+10-18 19:28,spot_fixed,ETHFI,0.653214,0.653029,-0.03,-0.4,-0.034,TIME,84
+10-18 19:28,spot_fixed,BTW,2.33,2.38,2.15,1.7,0.14,TP,54
+10-18 19:28,spot_trail,ETHFI,0.653214,0.653029,-0.03,-0.4,-0.034,TIME,84
