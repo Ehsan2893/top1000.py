@@ -1141,3 +1141,5 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-18 11:50,spot_fixed,CASHCAT,0.108555,0.107117,-1.32,-1.7,-0.138,SL,52
 10-18 11:50,spot_trail,DOT,1.12,1.1,-1.79,-2.2,-0.175,SL,78
 10-18 11:50,spot_trail,S,0.05421,0.054949,1.36,1.0,0.077,TIME,78
+10-18 13:17,spot_fixed,BEAM,0.00290286,0.00289027,-0.43,-0.8,-0.067,TIME,87
+10-18 13:17,spot_trail,BEAM,0.00290286,0.00289027,-0.43,-0.8,-0.067,TIME,87
