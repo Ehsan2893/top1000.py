@@ -1116,3 +1116,5 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-18 04:13,spot_trail,NEAR,4.96,5.02,1.21,0.8,0.065,TIME,84
 10-18 04:47,spot_fixed,SENT,0.02177525,0.02142755,-1.6,-2.0,-0.16,SL,61
 10-18 04:47,spot_trail,RAY,1.83,1.81,-1.09,-1.5,-0.119,SL,34
+10-18 05:43,spot_fixed,VVV,22.69,22.33,-1.59,-2.0,-0.159,SL,90
+10-18 05:43,spot_trail,VVV,22.69,22.33,-1.59,-2.0,-0.159,SL,90
