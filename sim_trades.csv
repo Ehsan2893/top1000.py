@@ -1102,3 +1102,6 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-17 23:44,spot_trail,RAIN,0.00901077,0.0090107,-0.0,-0.4,-0.032,TIME,65
 10-18 00:43,spot_fixed,NXPC,0.172959,0.168791,-2.41,-2.8,-0.225,SL,59
 10-18 00:43,spot_trail,NXPC,0.172959,0.168791,-2.41,-2.8,-0.225,TRAIL,59
+10-18 01:18,spot_fixed,牛来,0.058739,0.058387,-0.6,-1.0,-0.08,TIME,95
+10-18 01:18,spot_trail,牛来,0.058739,0.058387,-0.6,-1.0,-0.08,TRAIL,95
+10-18 01:18,spot_trail,CASHCAT,0.101416,0.102122,0.7,0.3,0.024,TIME,95
