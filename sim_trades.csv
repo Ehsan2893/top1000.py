@@ -1100,3 +1100,5 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-17 21:51,spot_trail,DUSK,0.127513,0.124028,-2.73,-3.1,-0.251,SL,80
 10-17 23:44,spot_fixed,RAIN,0.00901077,0.0090107,-0.0,-0.4,-0.032,TIME,65
 10-17 23:44,spot_trail,RAIN,0.00901077,0.0090107,-0.0,-0.4,-0.032,TIME,65
+10-18 00:43,spot_fixed,NXPC,0.172959,0.168791,-2.41,-2.8,-0.225,SL,59
+10-18 00:43,spot_trail,NXPC,0.172959,0.168791,-2.41,-2.8,-0.225,TRAIL,59
