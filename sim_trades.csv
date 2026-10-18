@@ -1149,3 +1149,4 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-18 15:01,spot_trail,DGAI,0.857209,0.857083,-0.01,-0.4,-0.033,TIME,74
 10-18 16:23,spot_fixed,BP,1.084,1.064,-1.85,-2.2,-0.18,SL,55
 10-18 16:23,spot_trail,BP,1.084,1.064,-1.85,-2.2,-0.18,SL,55
+10-18 17:15,spot_fixed,AIOZ,0.103699,0.109708,5.79,5.4,0.432,TP,23
