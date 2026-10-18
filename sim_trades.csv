@@ -1159,3 +1159,4 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-18 19:52,spot_fixed,XCN,0.00436618,0.00422447,-3.25,-3.6,-0.292,SL,24
 10-18 19:52,spot_trail,BTW,2.33,2.46,5.58,5.2,0.414,TIME,78
 10-18 19:52,spot_trail,XCN,0.00436618,0.00422447,-3.25,-3.6,-0.292,SL,24
+10-18 20:38,spot_fixed,AXL,0.056517,0.056583,0.12,-0.3,-0.023,TIME,70
