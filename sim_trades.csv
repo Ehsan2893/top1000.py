@@ -1131,3 +1131,4 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-18 09:07,spot_fixed,AXL,0.059242,0.062975,6.3,5.9,0.472,TP,26
 10-18 09:07,spot_fixed,SAND,0.063924,0.062975,-1.48,-1.9,-0.151,SL,26
 10-18 09:07,spot_trail,SAND,0.063924,0.062975,-1.48,-1.9,-0.151,SL,26
+10-18 09:37,spot_trail,AXL,0.059242,0.060907,2.81,2.4,0.193,TRAIL,55
