@@ -1145,3 +1145,5 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-18 13:17,spot_trail,BEAM,0.00290286,0.00289027,-0.43,-0.8,-0.067,TIME,87
 10-18 13:47,spot_fixed,PROM,4.89,4.84,-1.02,-1.4,-0.114,SL,62
 10-18 13:47,spot_trail,PROM,4.89,4.84,-1.02,-1.4,-0.114,SL,62
+10-18 15:01,spot_fixed,DGAI,0.857209,0.857083,-0.01,-0.4,-0.033,TIME,74
+10-18 15:01,spot_trail,DGAI,0.857209,0.857083,-0.01,-0.4,-0.033,TIME,74
