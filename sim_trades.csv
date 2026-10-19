@@ -1170,3 +1170,6 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-18 23:53,spot_fixed,SENT,0.0230371,0.02254068,-2.15,-2.6,-0.204,SL,23
 10-18 23:53,spot_trail,STONK,0.097941,0.100758,2.88,2.5,0.198,TIME,67
 10-18 23:53,spot_trail,USELESS,0.142829,0.144376,1.08,0.7,0.055,TIME,67
+10-19 00:19,spot_fixed,ALT,0.00886269,0.0090597,2.22,1.8,0.146,TP,26
+10-19 00:19,spot_fixed,ALEO,0.05291,0.052173,-1.39,-1.8,-0.143,SL,26
+10-19 00:19,spot_trail,ALEO,0.05291,0.052173,-1.39,-1.8,-0.143,SL,26
