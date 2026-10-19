@@ -1203,3 +1203,4 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-19 08:39,spot_fixed,HUMA,0.02928381,0.02908266,-0.69,-1.1,-0.087,TIME,88
 10-19 08:39,spot_fixed,DUSK,0.120533,0.117371,-2.62,-3.0,-0.242,SL,40
 10-19 08:39,spot_trail,DUSK,0.120533,0.117371,-2.62,-3.0,-0.242,SL,40
+10-19 09:17,spot_trail,QNT,200.25,199.75,-0.25,-0.6,-0.052,TIME,78
