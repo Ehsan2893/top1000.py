@@ -1229,3 +1229,7 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-19 17:59,spot_fixed,DRV,0.399384,0.39489,-1.13,-1.5,-0.122,SL,62
 10-19 17:59,spot_trail,ALEO,0.050187,0.04968131,-1.01,-1.4,-0.113,SL,62
 10-19 17:59,spot_trail,DRV,0.399384,0.39489,-1.13,-1.5,-0.122,SL,62
+10-19 19:15,spot_fixed,ALT,0.0088133,0.00883292,0.22,-0.2,-0.014,TIME,76
+10-19 19:15,spot_fixed,INJ,8.58,8.56,-0.23,-0.6,-0.051,TIME,76
+10-19 19:15,spot_trail,ALT,0.0088133,0.00883292,0.22,-0.2,-0.014,TIME,76
+10-19 19:15,spot_trail,INJ,8.58,8.56,-0.23,-0.6,-0.051,TIME,76
