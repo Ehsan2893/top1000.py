@@ -1187,3 +1187,6 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-19 03:15,spot_fixed,NIGHT,0.04104622,0.04029781,-1.82,-2.2,-0.178,SL,30
 10-19 03:15,spot_trail,NIGHT,0.04104622,0.04029781,-1.82,-2.2,-0.178,SL,30
 10-19 03:56,spot_trail,PUMP,0.00438204,0.00447131,2.04,1.6,0.131,TIME,71
+10-19 04:30,spot_fixed,ARB,0.191623,0.192185,0.29,-0.1,-0.009,TIME,75
+10-19 04:30,spot_fixed,FARTCOIN,0.146217,0.144118,-1.44,-1.8,-0.147,SL,75
+10-19 04:30,spot_trail,ARB,0.191623,0.192185,0.29,-0.1,-0.009,TIME,75
