@@ -1197,3 +1197,6 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-19 06:14,spot_trail,CASHCAT,0.111417,0.112916,1.35,0.9,0.076,TIME,65
 10-19 06:14,spot_trail,DGAI,0.889534,0.887383,-0.24,-0.6,-0.051,TIME,65
 10-19 07:11,spot_fixed,CARDS,0.281651,0.293318,4.14,3.7,0.299,TP,57
+10-19 07:59,spot_fixed,BAT,0.177702,0.184513,3.83,3.4,0.275,TP,105
+10-19 07:59,spot_trail,BAT,0.177702,0.184513,3.83,3.4,0.275,TIME,105
+10-19 07:59,spot_trail,CARDS,0.281651,0.287051,1.92,1.5,0.121,TRAIL,105
