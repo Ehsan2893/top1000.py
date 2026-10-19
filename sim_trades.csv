@@ -1217,3 +1217,5 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-19 13:51,spot_trail,SYRUP,0.191283,0.189132,-1.12,-1.5,-0.122,SL,46
 10-19 14:27,spot_fixed,STONK,0.110714,0.111782,0.96,0.6,0.045,TIME,82
 10-19 14:27,spot_trail,STONK,0.110714,0.111782,0.96,0.6,0.045,TIME,82
+10-19 15:11,spot_fixed,CC,0.106168,0.104698,-1.38,-1.8,-0.143,SL,80
+10-19 15:11,spot_trail,CC,0.106168,0.104698,-1.38,-1.8,-0.143,SL,80
