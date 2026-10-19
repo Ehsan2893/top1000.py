@@ -1196,3 +1196,4 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-19 06:14,spot_fixed,AIOZ,0.107865,0.106413,-1.35,-1.7,-0.14,SL,33
 10-19 06:14,spot_trail,CASHCAT,0.111417,0.112916,1.35,0.9,0.076,TIME,65
 10-19 06:14,spot_trail,DGAI,0.889534,0.887383,-0.24,-0.6,-0.051,TIME,65
+10-19 07:11,spot_fixed,CARDS,0.281651,0.293318,4.14,3.7,0.299,TP,57
