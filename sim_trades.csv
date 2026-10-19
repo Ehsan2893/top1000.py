@@ -1219,3 +1219,5 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-19 14:27,spot_trail,STONK,0.110714,0.111782,0.96,0.6,0.045,TIME,82
 10-19 15:11,spot_fixed,CC,0.106168,0.104698,-1.38,-1.8,-0.143,SL,80
 10-19 15:11,spot_trail,CC,0.106168,0.104698,-1.38,-1.8,-0.143,SL,80
+10-19 15:49,spot_fixed,TSLAX,365.36,368.19,0.77,0.4,0.03,TIME,82
+10-19 15:49,spot_trail,TSLAX,365.36,368.19,0.77,0.4,0.03,TIME,82
