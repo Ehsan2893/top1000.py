@@ -1213,3 +1213,5 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-19 11:06,spot_trail,KITE,0.117749,0.11892,0.99,0.6,0.048,TIME,68
 10-19 13:05,spot_fixed,ORCA,1.84,1.82,-1.09,-1.5,-0.119,SL,51
 10-19 13:05,spot_trail,ORCA,1.84,1.82,-1.09,-1.5,-0.119,SL,51
+10-19 13:51,spot_fixed,SYRUP,0.191283,0.189132,-1.12,-1.5,-0.122,SL,46
+10-19 13:51,spot_trail,SYRUP,0.191283,0.189132,-1.12,-1.5,-0.122,SL,46
