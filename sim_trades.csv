@@ -1180,3 +1180,6 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-19 01:39,spot_trail,BP,1.12,1.14,1.79,1.4,0.111,TIME,80
 10-19 01:39,spot_trail,BEAM,0.00288425,0.002855,-1.01,-1.4,-0.113,SL,34
 10-19 02:11,spot_fixed,RAY,1.87,1.9,1.6,1.2,0.096,TP,32
+10-19 02:45,spot_fixed,WAL,0.04090553,0.04040789,-1.22,-1.6,-0.129,SL,66
+10-19 02:45,spot_trail,WAL,0.04090553,0.04040789,-1.22,-1.6,-0.129,SL,66
+10-19 02:45,spot_trail,RAY,1.87,1.91,2.14,1.7,0.139,TIME,66
