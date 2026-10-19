@@ -1191,3 +1191,4 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-19 04:30,spot_fixed,FARTCOIN,0.146217,0.144118,-1.44,-1.8,-0.147,SL,75
 10-19 04:30,spot_trail,ARB,0.191623,0.192185,0.29,-0.1,-0.009,TIME,75
 10-19 05:09,spot_trail,BR,0.455663,0.464338,1.9,1.5,0.12,TIME,73
+10-19 05:41,spot_fixed,BR,0.462988,0.473816,2.34,1.9,0.155,TP,72
