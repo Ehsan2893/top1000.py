@@ -1235,3 +1235,5 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-19 19:15,spot_trail,INJ,8.58,8.56,-0.23,-0.6,-0.051,TIME,76
 10-19 19:52,spot_fixed,CAP,0.069301,0.068574,-1.05,-1.4,-0.116,SL,37
 10-19 19:52,spot_trail,CAP,0.069301,0.068574,-1.05,-1.4,-0.116,SL,37
+10-19 20:20,spot_fixed,Q,0.137193,0.133948,-2.37,-2.8,-0.221,SL,65
+10-19 20:20,spot_trail,Q,0.137193,0.133948,-2.37,-2.8,-0.221,TRAIL,65
