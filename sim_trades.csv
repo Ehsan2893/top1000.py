@@ -1204,3 +1204,6 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-19 08:39,spot_fixed,DUSK,0.120533,0.117371,-2.62,-3.0,-0.242,SL,40
 10-19 08:39,spot_trail,DUSK,0.120533,0.117371,-2.62,-3.0,-0.242,SL,40
 10-19 09:17,spot_trail,QNT,200.25,199.75,-0.25,-0.6,-0.052,TIME,78
+10-19 09:58,spot_fixed,MARSCOIN,0.081181,0.082143,1.19,0.8,0.063,TIME,79
+10-19 09:58,spot_fixed,ARB,0.198329,0.197802,-0.27,-0.7,-0.053,TIME,79
+10-19 09:58,spot_trail,MARSCOIN,0.081181,0.082143,1.19,0.8,0.063,TIME,79
