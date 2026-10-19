@@ -1240,3 +1240,4 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-19 20:56,spot_fixed,RLC,0.72373,0.707019,-2.31,-2.7,-0.217,SL,64
 10-19 20:56,spot_fixed,BAT,0.191426,0.195618,2.19,1.8,0.143,TP,35
 10-19 20:56,spot_trail,RLC,0.72373,0.707019,-2.31,-2.7,-0.217,TRAIL,64
+10-19 21:24,spot_trail,BAT,0.191426,0.200146,4.56,4.2,0.332,TIME,64
