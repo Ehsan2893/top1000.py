@@ -1200,3 +1200,6 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-19 07:59,spot_fixed,BAT,0.177702,0.184513,3.83,3.4,0.275,TP,105
 10-19 07:59,spot_trail,BAT,0.177702,0.184513,3.83,3.4,0.275,TIME,105
 10-19 07:59,spot_trail,CARDS,0.281651,0.287051,1.92,1.5,0.121,TRAIL,105
+10-19 08:39,spot_fixed,HUMA,0.02928381,0.02908266,-0.69,-1.1,-0.087,TIME,88
+10-19 08:39,spot_fixed,DUSK,0.120533,0.117371,-2.62,-3.0,-0.242,SL,40
+10-19 08:39,spot_trail,DUSK,0.120533,0.117371,-2.62,-3.0,-0.242,SL,40
