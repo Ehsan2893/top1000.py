@@ -1318,3 +1318,4 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-20 21:03,spot_fixed,LDO,0.415361,0.413899,-0.35,-0.8,-0.06,TIME,65
 10-20 21:03,spot_trail,CASHCAT,0.115317,0.117845,2.19,1.8,0.143,TIME,65
 10-20 21:03,spot_trail,LDO,0.415361,0.413899,-0.35,-0.8,-0.06,TIME,65
+10-20 21:35,spot_fixed,LIT,3.34,3.44,2.99,2.6,0.208,TP,32
