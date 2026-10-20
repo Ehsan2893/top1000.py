@@ -1253,3 +1253,5 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-20 01:18,spot_trail,S,0.058465,0.057016,-2.48,-2.9,-0.23,SL,80
 10-20 02:19,spot_fixed,A,0.097482,0.094261,-3.3,-3.7,-0.296,SL,26
 10-20 02:19,spot_trail,A,0.097482,0.094261,-3.3,-3.7,-0.296,SL,26
+10-20 02:55,spot_fixed,DGAI,0.950896,0.949942,-0.1,-0.5,-0.04,TIME,62
+10-20 02:55,spot_trail,DGAI,0.950896,0.949942,-0.1,-0.5,-0.04,TIME,62
