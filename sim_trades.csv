@@ -1306,3 +1306,7 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-20 17:11,spot_trail,AKE,0.03139875,0.03096955,-1.37,-1.8,-0.141,SL,43
 10-20 17:42,spot_fixed,ID,0.03248464,0.03206749,-1.28,-1.7,-0.135,SL,31
 10-20 17:42,spot_trail,THETA,0.212761,0.21759,2.27,1.9,0.15,TRAIL,74
+10-20 18:52,spot_fixed,SPX,0.378457,0.383956,1.45,1.1,0.084,TIME,100
+10-20 18:52,spot_fixed,RAY,2.06,2.02,-1.94,-2.3,-0.187,SL,69
+10-20 18:52,spot_trail,SPX,0.378457,0.383956,1.45,1.1,0.084,TIME,100
+10-20 18:52,spot_trail,RAY,2.06,2.02,-1.94,-2.3,-0.187,SL,69
