@@ -1285,3 +1285,7 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-20 12:02,spot_fixed,THETA,0.203072,0.19867,-2.17,-2.6,-0.205,SL,33
 10-20 12:02,spot_trail,COMP,23.04,22.88,-0.69,-1.1,-0.088,TIME,65
 10-20 12:02,spot_trail,TIA,0.643519,0.650074,1.02,0.6,0.049,TIME,65
+10-20 13:26,spot_fixed,BEAM,0.00322918,0.00322567,-0.11,-0.5,-0.041,TIME,84
+10-20 13:26,spot_fixed,RAIN,0.00861428,0.0089244,3.6,3.2,0.256,TP,84
+10-20 13:26,spot_trail,BEAM,0.00322918,0.00322567,-0.11,-0.5,-0.041,TIME,84
+10-20 13:26,spot_trail,RAIN,0.00861428,0.0089244,3.6,3.2,0.256,TIME,84
