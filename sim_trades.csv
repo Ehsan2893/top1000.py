@@ -1322,3 +1322,4 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-20 22:07,spot_fixed,PUMP,0.00481488,0.00476315,-1.07,-1.5,-0.118,SL,64
 10-20 22:07,spot_trail,LIT,3.34,3.41,2.1,1.7,0.136,TIME,64
 10-20 22:07,spot_trail,PUMP,0.00481488,0.00476315,-1.07,-1.5,-0.118,SL,64
+10-20 22:38,spot_fixed,UB,0.126414,0.126789,0.3,-0.1,-0.008,TIME,63
