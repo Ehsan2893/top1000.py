@@ -1268,3 +1268,5 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-20 05:37,spot_fixed,CVX,2.14,2.14,0.0,-0.4,-0.032,TIME,66
 10-20 06:09,spot_fixed,LIT,3.23,3.21,-0.62,-1.0,-0.082,TIME,63
 10-20 06:09,spot_trail,LIT,3.23,3.21,-0.62,-1.0,-0.082,TIME,63
+10-20 06:52,spot_fixed,CAP,0.067231,0.06926,3.02,2.6,0.209,TP,75
+10-20 06:52,spot_trail,CAP,0.067231,0.06926,3.02,2.6,0.209,TIME,75
