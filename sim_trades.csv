@@ -1274,3 +1274,5 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-20 08:11,spot_fixed,TIA,0.634126,0.629347,-0.75,-1.2,-0.092,TIME,79
 10-20 08:11,spot_trail,CHIP,0.0446795,0.04399319,-1.54,-1.9,-0.155,SL,79
 10-20 08:11,spot_trail,TIA,0.634126,0.629347,-0.75,-1.2,-0.092,TIME,79
+10-20 09:55,spot_fixed,IO,0.163313,0.163549,0.14,-0.3,-0.02,TIME,66
+10-20 09:55,spot_trail,IO,0.163313,0.163549,0.14,-0.3,-0.02,TIME,66
