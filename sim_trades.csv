@@ -1281,3 +1281,7 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-20 10:57,spot_trail,BAT,0.203025,0.201245,-0.88,-1.3,-0.102,TRAIL,62
 10-20 10:57,spot_trail,ZRO,1.9,1.91,0.53,0.1,0.01,TIME,62
 10-20 11:28,spot_fixed,TIA,0.643519,0.653237,1.51,1.1,0.089,TP,31
+10-20 12:02,spot_fixed,COMP,23.04,22.88,-0.69,-1.1,-0.088,TIME,65
+10-20 12:02,spot_fixed,THETA,0.203072,0.19867,-2.17,-2.6,-0.205,SL,33
+10-20 12:02,spot_trail,COMP,23.04,22.88,-0.69,-1.1,-0.088,TIME,65
+10-20 12:02,spot_trail,TIA,0.643519,0.650074,1.02,0.6,0.049,TIME,65
