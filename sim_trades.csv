@@ -1289,3 +1289,5 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-20 13:26,spot_fixed,RAIN,0.00861428,0.0089244,3.6,3.2,0.256,TP,84
 10-20 13:26,spot_trail,BEAM,0.00322918,0.00322567,-0.11,-0.5,-0.041,TIME,84
 10-20 13:26,spot_trail,RAIN,0.00861428,0.0089244,3.6,3.2,0.256,TIME,84
+10-20 14:09,spot_fixed,NXPC,0.162183,0.167953,3.56,3.2,0.253,TP,43
+10-20 14:09,spot_fixed,JTO,0.466756,0.480814,3.01,2.6,0.209,TP,43
