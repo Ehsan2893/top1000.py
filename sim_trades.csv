@@ -1319,3 +1319,6 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-20 21:03,spot_trail,CASHCAT,0.115317,0.117845,2.19,1.8,0.143,TIME,65
 10-20 21:03,spot_trail,LDO,0.415361,0.413899,-0.35,-0.8,-0.06,TIME,65
 10-20 21:35,spot_fixed,LIT,3.34,3.44,2.99,2.6,0.208,TP,32
+10-20 22:07,spot_fixed,PUMP,0.00481488,0.00476315,-1.07,-1.5,-0.118,SL,64
+10-20 22:07,spot_trail,LIT,3.34,3.41,2.1,1.7,0.136,TIME,64
+10-20 22:07,spot_trail,PUMP,0.00481488,0.00476315,-1.07,-1.5,-0.118,SL,64
