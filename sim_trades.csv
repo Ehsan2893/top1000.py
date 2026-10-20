@@ -1293,3 +1293,7 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-20 14:09,spot_fixed,JTO,0.466756,0.480814,3.01,2.6,0.209,TP,43
 10-20 14:45,spot_trail,NXPC,0.162183,0.167317,3.17,2.8,0.221,TIME,79
 10-20 14:45,spot_trail,JTO,0.466756,0.489962,4.97,4.6,0.366,TIME,79
+10-20 15:19,spot_fixed,ZEC,1219.73,1199.36,-1.67,-2.1,-0.166,SL,70
+10-20 15:19,spot_fixed,CASHCAT,0.110977,0.110558,-0.38,-0.8,-0.062,TIME,70
+10-20 15:19,spot_trail,STONK,0.121986,0.118166,-3.13,-3.5,-0.283,SL,34
+10-20 15:19,spot_trail,AERO,0.86711,0.847159,-2.3,-2.7,-0.216,SL,34
