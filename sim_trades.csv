@@ -1310,3 +1310,7 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-20 18:52,spot_fixed,RAY,2.06,2.02,-1.94,-2.3,-0.187,SL,69
 10-20 18:52,spot_trail,SPX,0.378457,0.383956,1.45,1.1,0.084,TIME,100
 10-20 18:52,spot_trail,RAY,2.06,2.02,-1.94,-2.3,-0.187,SL,69
+10-20 19:58,spot_fixed,PENGU,0.00806899,0.00802758,-0.51,-0.9,-0.073,TIME,66
+10-20 19:58,spot_fixed,PYTH,0.078383,0.078838,0.58,0.2,0.014,TIME,66
+10-20 19:58,spot_trail,PENGU,0.00806899,0.00802758,-0.51,-0.9,-0.073,TIME,66
+10-20 19:58,spot_trail,PYTH,0.078383,0.078838,0.58,0.2,0.014,TIME,66
