@@ -1304,3 +1304,5 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-20 17:11,spot_fixed,AKE,0.03139875,0.03096955,-1.37,-1.8,-0.141,SL,43
 10-20 17:11,spot_fixed,THETA,0.212761,0.223383,4.99,4.6,0.367,TP,43
 10-20 17:11,spot_trail,AKE,0.03139875,0.03096955,-1.37,-1.8,-0.141,SL,43
+10-20 17:42,spot_fixed,ID,0.03248464,0.03206749,-1.28,-1.7,-0.135,SL,31
+10-20 17:42,spot_trail,THETA,0.212761,0.21759,2.27,1.9,0.15,TRAIL,74
