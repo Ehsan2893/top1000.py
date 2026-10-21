@@ -1332,3 +1332,5 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-21 00:41,spot_fixed,AKE,0.03269608,0.03230961,-1.18,-1.6,-0.127,SL,41
 10-21 00:41,spot_trail,AMP,0.00083928,0.00084512,0.7,0.3,0.024,TRAIL,65
 10-21 00:41,spot_trail,MX,1.74,1.72,-1.15,-1.5,-0.124,SL,65
+10-21 01:56,spot_fixed,BTW,2.04,2.0,-1.96,-2.4,-0.189,SL,76
+10-21 01:56,spot_trail,BTW,2.04,2.0,-1.96,-2.4,-0.189,TRAIL,76
