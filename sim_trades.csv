@@ -1393,3 +1393,7 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-21 17:42,spot_trail,ZAMA,0.078616,0.081556,3.74,3.3,0.267,TIME,69
 10-21 17:42,spot_trail,PROM,5.76,5.76,0.0,-0.4,-0.032,TIME,69
 10-21 18:12,spot_fixed,CARDS,0.362782,0.370832,2.22,1.8,0.146,TP,30
+10-21 18:56,spot_fixed,EIGEN,0.246796,0.246169,-0.25,-0.7,-0.052,TIME,74
+10-21 18:56,spot_fixed,BTW,1.71,1.76,2.92,2.5,0.202,TP,44
+10-21 18:56,spot_trail,EIGEN,0.246796,0.246169,-0.25,-0.7,-0.052,TIME,74
+10-21 18:56,spot_trail,CARDS,0.362782,0.376737,3.85,3.4,0.276,TIME,74
