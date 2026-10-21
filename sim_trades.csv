@@ -1400,3 +1400,4 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-21 19:29,spot_fixed,CC,0.113013,0.111442,-1.39,-1.8,-0.143,SL,33
 10-21 19:29,spot_trail,CC,0.113013,0.111442,-1.39,-1.8,-0.143,SL,33
 10-21 19:29,spot_trail,BTW,1.76,1.62,-7.95,-8.4,-0.668,SL,33
+10-21 20:03,spot_fixed,QNT,208.3,208.37,0.03,-0.4,-0.029,TIME,67
