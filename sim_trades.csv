@@ -1356,3 +1356,5 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-21 06:22,spot_trail,CHIP,0.04629326,0.04570529,-1.27,-1.7,-0.134,SL,30
 10-21 08:00,spot_fixed,XDC,0.03292886,0.03352439,1.81,1.4,0.113,TP,98
 10-21 08:00,spot_trail,XDC,0.03292886,0.03352439,1.81,1.4,0.113,TIME,98
+10-21 08:37,spot_fixed,JUP,0.319825,0.319752,-0.02,-0.4,-0.034,TIME,81
+10-21 08:37,spot_trail,JUP,0.319825,0.319752,-0.02,-0.4,-0.034,TIME,81
