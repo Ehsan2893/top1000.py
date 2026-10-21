@@ -1397,3 +1397,6 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-21 18:56,spot_fixed,BTW,1.71,1.76,2.92,2.5,0.202,TP,44
 10-21 18:56,spot_trail,EIGEN,0.246796,0.246169,-0.25,-0.7,-0.052,TIME,74
 10-21 18:56,spot_trail,CARDS,0.362782,0.376737,3.85,3.4,0.276,TIME,74
+10-21 19:29,spot_fixed,CC,0.113013,0.111442,-1.39,-1.8,-0.143,SL,33
+10-21 19:29,spot_trail,CC,0.113013,0.111442,-1.39,-1.8,-0.143,SL,33
+10-21 19:29,spot_trail,BTW,1.76,1.62,-7.95,-8.4,-0.668,SL,33
