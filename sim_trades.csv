@@ -1366,3 +1366,7 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-21 10:24,spot_fixed,PROM,5.26,5.28,0.38,-0.0,-0.002,TIME,69
 10-21 10:24,spot_trail,HUMA,0.03077277,0.03089315,0.39,-0.0,-0.001,TIME,69
 10-21 10:24,spot_trail,PROM,5.26,5.28,0.38,-0.0,-0.002,TIME,69
+10-21 11:34,spot_fixed,CAP,0.068968,0.068754,-0.31,-0.7,-0.057,TIME,70
+10-21 11:34,spot_fixed,XDC,0.03429585,0.0339473,-1.02,-1.4,-0.113,SL,70
+10-21 11:34,spot_trail,CAP,0.068968,0.068754,-0.31,-0.7,-0.057,TIME,70
+10-21 11:34,spot_trail,XDC,0.03429585,0.0339473,-1.02,-1.4,-0.113,TRAIL,70
