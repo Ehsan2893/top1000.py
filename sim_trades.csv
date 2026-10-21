@@ -1383,3 +1383,4 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-21 15:20,spot_fixed,ORCA,1.93,1.9,-1.55,-2.0,-0.156,SL,29
 10-21 15:20,spot_trail,HUMA,0.03126606,0.03076027,-1.62,-2.0,-0.161,TRAIL,67
 10-21 15:20,spot_trail,DUSK,0.109256,0.109778,0.48,0.1,0.006,TIME,67
+10-21 15:59,spot_fixed,STONK,0.132526,0.138531,4.53,4.1,0.33,TP,39
