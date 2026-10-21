@@ -1375,3 +1375,6 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-21 12:52,spot_trail,SOON,0.314718,0.332898,5.78,5.4,0.43,TIME,78
 10-21 12:52,spot_trail,MINA,0.073713,0.074365,0.88,0.5,0.039,TIME,78
 10-21 13:31,spot_fixed,BR,0.610436,0.629461,3.12,2.7,0.217,TP,83
+10-21 14:13,spot_fixed,KMNO,0.04221758,0.04169625,-1.23,-1.6,-0.131,SL,82
+10-21 14:13,spot_trail,KMNO,0.04221758,0.04169625,-1.23,-1.6,-0.131,SL,82
+10-21 14:13,spot_trail,MEGA,0.04572988,0.04477755,-2.08,-2.5,-0.199,TRAIL,82
