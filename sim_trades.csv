@@ -1379,3 +1379,7 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-21 14:13,spot_trail,KMNO,0.04221758,0.04169625,-1.23,-1.6,-0.131,SL,82
 10-21 14:13,spot_trail,MEGA,0.04572988,0.04477755,-2.08,-2.5,-0.199,TRAIL,82
 10-21 14:51,spot_fixed,BABY,0.01361337,0.01368247,0.51,0.1,0.009,TIME,80
+10-21 15:20,spot_fixed,HUMA,0.03126606,0.03076027,-1.62,-2.0,-0.161,SL,67
+10-21 15:20,spot_fixed,ORCA,1.93,1.9,-1.55,-2.0,-0.156,SL,29
+10-21 15:20,spot_trail,HUMA,0.03126606,0.03076027,-1.62,-2.0,-0.161,TRAIL,67
+10-21 15:20,spot_trail,DUSK,0.109256,0.109778,0.48,0.1,0.006,TIME,67
