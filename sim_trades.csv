@@ -1344,3 +1344,5 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-21 03:35,spot_trail,FF,0.115042,0.114509,-0.46,-0.9,-0.069,TIME,68
 10-21 04:12,spot_fixed,ORCA,1.83,1.82,-0.55,-0.9,-0.076,TIME,69
 10-21 04:12,spot_trail,ORCA,1.84,1.82,-1.09,-1.5,-0.119,SL,37
+10-21 04:47,spot_fixed,STABLE,0.0273018,0.02734416,0.16,-0.2,-0.02,TIME,72
+10-21 04:47,spot_trail,STABLE,0.0273018,0.02734416,0.16,-0.2,-0.02,TIME,72
