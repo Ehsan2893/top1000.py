@@ -1327,3 +1327,4 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-20 23:35,spot_fixed,STONK,0.128237,0.125092,-2.45,-2.9,-0.228,SL,57
 10-20 23:35,spot_trail,AERO,0.888344,0.879662,-0.98,-1.4,-0.11,TIME,88
 10-20 23:35,spot_trail,STONK,0.125828,0.125092,-0.58,-1.0,-0.079,TRAIL,88
+10-21 00:00,spot_fixed,AMP,0.00083928,0.00086948,3.6,3.2,0.256,TP,25
