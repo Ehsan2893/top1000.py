@@ -1388,3 +1388,7 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-21 16:33,spot_fixed,STRK,0.063175,0.061768,-2.23,-2.6,-0.21,SL,34
 10-21 16:33,spot_trail,STONK,0.132526,0.136729,3.17,2.8,0.222,TRAIL,73
 10-21 16:33,spot_trail,NIGHT,0.04295441,0.04254319,-0.96,-1.4,-0.109,TIME,73
+10-21 17:42,spot_fixed,ZAMA,0.078616,0.081556,3.74,3.3,0.267,TP,69
+10-21 17:42,spot_fixed,PROM,5.76,5.76,0.0,-0.4,-0.032,TIME,69
+10-21 17:42,spot_trail,ZAMA,0.078616,0.081556,3.74,3.3,0.267,TIME,69
+10-21 17:42,spot_trail,PROM,5.76,5.76,0.0,-0.4,-0.032,TIME,69
