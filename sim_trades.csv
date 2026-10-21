@@ -1370,3 +1370,4 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-21 11:34,spot_fixed,XDC,0.03429585,0.0339473,-1.02,-1.4,-0.113,SL,70
 10-21 11:34,spot_trail,CAP,0.068968,0.068754,-0.31,-0.7,-0.057,TIME,70
 10-21 11:34,spot_trail,XDC,0.03429585,0.0339473,-1.02,-1.4,-0.113,TRAIL,70
+10-21 12:08,spot_fixed,SOON,0.314718,0.326163,3.64,3.2,0.259,TP,34
