@@ -1415,3 +1415,5 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-21 23:43,spot_trail,CARDS,0.379334,0.37669,-0.7,-1.1,-0.088,TRAIL,91
 10-22 00:06,spot_fixed,CVX,2.64,2.63,-0.38,-0.8,-0.062,TIME,80
 10-22 00:06,spot_trail,CVX,2.64,2.63,-0.38,-0.8,-0.062,TIME,80
+10-22 00:49,spot_fixed,PEARL,2.43,2.39,-1.65,-2.0,-0.164,SL,65
+10-22 00:49,spot_trail,PEARL,2.43,2.39,-1.65,-2.0,-0.164,SL,65
