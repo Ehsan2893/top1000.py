@@ -1452,3 +1452,5 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-22 15:53,spot_trail,PHA,0.063917,0.061444,-3.87,-4.3,-0.342,SL,38
 10-22 18:40,spot_fixed,BABY,0.01299642,0.01278734,-1.61,-2.0,-0.161,SL,67
 10-22 18:40,spot_trail,BABY,0.01299642,0.01278734,-1.61,-2.0,-0.161,SL,67
+10-22 19:20,spot_fixed,PHA,0.063796,0.062697,-1.72,-2.1,-0.17,SL,39
+10-22 19:20,spot_trail,PHA,0.063796,0.062697,-1.72,-2.1,-0.17,SL,39
