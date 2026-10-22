@@ -1428,3 +1428,6 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-22 07:29,spot_fixed,JCT,0.00447634,0.00436615,-2.46,-2.9,-0.229,SL,88
 10-22 07:29,spot_fixed,BR,0.485374,0.502867,3.6,3.2,0.256,TP,48
 10-22 07:29,spot_trail,JCT,0.00447634,0.00436615,-2.46,-2.9,-0.229,TRAIL,88
+10-22 08:13,spot_fixed,BTW,1.82,1.7,-6.59,-7.0,-0.559,SL,44
+10-22 08:13,spot_trail,BR,0.485374,0.476385,-1.85,-2.3,-0.18,TRAIL,92
+10-22 08:13,spot_trail,BTW,1.82,1.7,-6.59,-7.0,-0.559,SL,44
