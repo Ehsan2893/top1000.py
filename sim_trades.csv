@@ -1438,3 +1438,6 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-22 10:44,spot_fixed,CVX,2.52,2.47,-1.98,-2.4,-0.191,SL,34
 10-22 10:44,spot_fixed,WIN,5.994e-05,6.096e-05,1.7,1.3,0.104,TP,34
 10-22 10:44,spot_trail,CVX,2.52,2.47,-1.98,-2.4,-0.191,SL,34
+10-22 11:16,spot_fixed,BR,0.46041,0.452484,-1.72,-2.1,-0.17,SL,32
+10-22 11:16,spot_trail,WIN,5.994e-05,5.994e-05,0.0,-0.4,-0.032,TRAIL,66
+10-22 11:16,spot_trail,BR,0.46041,0.452484,-1.72,-2.1,-0.17,SL,32
