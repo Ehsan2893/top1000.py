@@ -1431,3 +1431,5 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-22 08:13,spot_fixed,BTW,1.82,1.7,-6.59,-7.0,-0.559,SL,44
 10-22 08:13,spot_trail,BR,0.485374,0.476385,-1.85,-2.3,-0.18,TRAIL,92
 10-22 08:13,spot_trail,BTW,1.82,1.7,-6.59,-7.0,-0.559,SL,44
+10-22 08:55,spot_fixed,BAT,0.178161,0.175259,-1.63,-2.0,-0.162,SL,42
+10-22 08:55,spot_trail,BAT,0.178161,0.175259,-1.63,-2.0,-0.162,SL,42
