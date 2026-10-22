@@ -1423,3 +1423,5 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-22 02:33,spot_trail,PHA,0.062238,0.061225,-1.63,-2.0,-0.162,SL,32
 10-22 05:25,spot_fixed,CTC,0.095845,0.0945,-1.4,-1.8,-0.144,SL,68
 10-22 05:25,spot_trail,CTC,0.095845,0.0945,-1.4,-1.8,-0.144,SL,68
+10-22 06:00,spot_fixed,AXIS,0.313561,0.308647,-1.57,-2.0,-0.157,SL,66
+10-22 06:00,spot_trail,AXIS,0.313561,0.308647,-1.57,-2.0,-0.157,TRAIL,66
