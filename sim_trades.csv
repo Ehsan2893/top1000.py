@@ -1448,3 +1448,5 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-22 13:20,spot_trail,Q,0.126052,0.126638,0.46,0.1,0.005,TIME,87
 10-22 15:15,spot_fixed,TSLAX,387.22,381.27,-1.54,-1.9,-0.155,SL,74
 10-22 15:15,spot_trail,TSLAX,387.22,381.27,-1.54,-1.9,-0.155,TRAIL,74
+10-22 15:53,spot_fixed,PHA,0.063917,0.061444,-3.87,-4.3,-0.342,SL,38
+10-22 15:53,spot_trail,PHA,0.063917,0.061444,-3.87,-4.3,-0.342,SL,38
