@@ -1493,3 +1493,5 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-23 17:13,spot_trail,SENT,0.02429118,0.02373437,-2.29,-2.7,-0.215,SL,73
 10-23 18:12,spot_trail,DATA,0.156072,0.154516,-1.0,-1.4,-0.112,TRAIL,59
 10-23 18:54,spot_fixed,DATA,0.156072,0.152719,-2.15,-2.5,-0.204,SL,102
+10-23 19:28,spot_fixed,BEAM,0.00346462,0.00339044,-2.14,-2.5,-0.203,SL,33
+10-23 19:28,spot_trail,BEAM,0.00329515,0.00339044,2.89,2.5,0.199,TRAIL,76
