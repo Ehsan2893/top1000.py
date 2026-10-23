@@ -1491,3 +1491,4 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-23 16:00,spot_trail,BR,0.554076,0.531908,-4.0,-4.4,-0.352,SL,40
 10-23 17:13,spot_fixed,SOXLB,86.07,83.94,-2.47,-2.9,-0.23,SL,73
 10-23 17:13,spot_trail,SENT,0.02429118,0.02373437,-2.29,-2.7,-0.215,SL,73
+10-23 18:12,spot_trail,DATA,0.156072,0.154516,-1.0,-1.4,-0.112,TRAIL,59
