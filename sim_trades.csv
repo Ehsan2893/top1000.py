@@ -1471,3 +1471,4 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-23 04:54,spot_trail,INJ,8.21,8.25,0.49,0.1,0.007,TIME,69
 10-23 06:37,spot_fixed,USELESS,0.162618,0.164528,1.17,0.8,0.062,TIME,74
 10-23 06:37,spot_trail,USELESS,0.162618,0.164528,1.17,0.8,0.062,TIME,74
+10-23 07:25,spot_fixed,ATH,0.00646271,0.00667596,3.3,2.9,0.232,TP,48
