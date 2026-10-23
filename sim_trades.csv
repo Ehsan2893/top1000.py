@@ -1478,3 +1478,5 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-23 09:55,spot_fixed,EDGE,0.350435,0.346478,-1.13,-1.5,-0.122,SL,74
 10-23 10:25,spot_fixed,CAP,0.072724,0.071773,-1.31,-1.7,-0.137,SL,30
 10-23 10:25,spot_trail,CAP,0.072724,0.071773,-1.31,-1.7,-0.137,SL,30
+10-23 12:04,spot_fixed,AMP,0.00080739,0.00079787,-1.18,-1.6,-0.126,SL,65
+10-23 12:04,spot_trail,AMP,0.00080739,0.00079787,-1.18,-1.6,-0.126,SL,65
