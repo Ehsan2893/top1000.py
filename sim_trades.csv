@@ -1541,3 +1541,5 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-24 20:15,spot_trail,ORCA,1.74,1.82,4.6,4.2,0.336,TIME,70
 10-24 20:45,spot_fixed,USELESS,0.161022,0.163615,1.61,1.2,0.097,TP,75
 10-24 21:38,spot_trail,DASH,52.34,51.73,-1.17,-1.6,-0.125,SL,83
+10-24 22:04,spot_fixed,UB,0.124184,0.125096,0.73,0.3,0.027,TIME,79
+10-24 22:04,spot_trail,DATA,0.157754,0.154188,-2.26,-2.7,-0.213,SL,26
