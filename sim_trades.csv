@@ -1525,3 +1525,5 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-24 11:33,spot_trail,RED,0.153848,0.149236,-3.0,-3.4,-0.272,SL,58
 10-24 12:02,spot_fixed,AIOZ,0.101715,0.098958,-2.71,-3.1,-0.249,SL,29
 10-24 12:02,spot_trail,AIOZ,0.101715,0.098958,-2.71,-3.1,-0.249,SL,29
+10-24 12:37,spot_fixed,EDU,0.064179,0.063195,-1.53,-1.9,-0.155,SL,35
+10-24 12:37,spot_trail,EDU,0.064179,0.063195,-1.53,-1.9,-0.155,SL,35
