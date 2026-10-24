@@ -1531,3 +1531,5 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-24 13:48,spot_trail,CAP,0.073877,0.074844,1.31,0.9,0.073,TIME,70
 10-24 14:41,spot_fixed,ACU,0.119984,0.115188,-4.0,-4.4,-0.352,SL,53
 10-24 14:41,spot_trail,ACU,0.119984,0.115188,-4.0,-4.4,-0.352,SL,53
+10-24 17:07,spot_fixed,BR,0.464349,0.476672,2.65,2.3,0.18,TP,89
+10-24 17:07,spot_trail,BR,0.464349,0.476672,2.65,2.3,0.18,TIME,89
