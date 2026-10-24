@@ -1513,3 +1513,5 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-24 04:49,spot_trail,ARKM,0.137861,0.135127,-1.98,-2.4,-0.191,SL,35
 10-24 05:49,spot_fixed,DOS,0.258454,0.257876,-0.22,-0.6,-0.05,TIME,60
 10-24 05:49,spot_trail,DOS,0.258454,0.257876,-0.22,-0.6,-0.05,TRAIL,60
+10-24 06:13,spot_fixed,ALT,0.00735146,0.00725686,-1.29,-1.7,-0.135,SL,24
+10-24 06:13,spot_trail,ALT,0.00735146,0.00725686,-1.29,-1.7,-0.135,SL,24
