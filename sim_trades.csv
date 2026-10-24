@@ -1517,3 +1517,5 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-24 06:13,spot_trail,ALT,0.00735146,0.00725686,-1.29,-1.7,-0.135,SL,24
 10-24 08:05,spot_fixed,TRAC,0.413246,0.411284,-0.47,-0.9,-0.07,TIME,66
 10-24 08:05,spot_trail,TRAC,0.413246,0.411284,-0.47,-0.9,-0.07,TRAIL,66
+10-24 09:06,spot_fixed,BAT,0.162508,0.162891,0.24,-0.2,-0.013,TIME,61
+10-24 09:06,spot_trail,BAT,0.162508,0.162891,0.24,-0.2,-0.013,TIME,61
