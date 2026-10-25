@@ -1570,3 +1570,5 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-25 15:32,spot_fixed,PLUME,0.01580549,0.01576483,-0.26,-0.7,-0.053,TIME,86
 10-25 16:01,spot_fixed,MAGMA,0.340831,0.336459,-1.28,-1.7,-0.135,SL,29
 10-25 16:01,spot_trail,RAIN,0.00827454,0.00842174,1.78,1.4,0.11,TIME,87
+10-25 16:31,spot_fixed,KMNO,0.04244033,0.04189502,-1.28,-1.7,-0.135,SL,30
+10-25 16:31,spot_trail,KMNO,0.04244033,0.04189502,-1.28,-1.7,-0.135,SL,30
