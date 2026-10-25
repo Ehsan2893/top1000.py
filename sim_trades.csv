@@ -1566,3 +1566,4 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-25 13:08,spot_fixed,WIN,6.255e-05,6.347e-05,1.47,1.1,0.086,TIME,101
 10-25 13:38,spot_fixed,MEGA,0.04702005,0.04582187,-2.55,-2.9,-0.236,SL,30
 10-25 13:38,spot_trail,MEGA,0.04702005,0.04582187,-2.55,-2.9,-0.236,SL,30
+10-25 14:34,spot_trail,WIN,6.402e-05,6.438e-05,0.56,0.2,0.013,TRAIL,56
