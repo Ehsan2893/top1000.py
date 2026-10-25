@@ -1543,3 +1543,5 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-24 21:38,spot_trail,DASH,52.34,51.73,-1.17,-1.6,-0.125,SL,83
 10-24 22:04,spot_fixed,UB,0.124184,0.125096,0.73,0.3,0.027,TIME,79
 10-24 22:04,spot_trail,DATA,0.157754,0.154188,-2.26,-2.7,-0.213,SL,26
+10-25 00:02,spot_fixed,AXL,0.050003,0.050145,0.28,-0.1,-0.009,TIME,65
+10-25 00:02,spot_trail,AXL,0.050003,0.050145,0.28,-0.1,-0.009,TIME,65
