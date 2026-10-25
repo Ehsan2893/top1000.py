@@ -1579,3 +1579,4 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-25 19:29,spot_fixed,CHIP,0.04548627,0.04510861,-0.83,-1.2,-0.098,TIME,62
 10-25 19:55,spot_trail,BTW,1.71,1.69,-1.17,-1.6,-0.126,SL,53
 10-25 20:47,spot_fixed,PEARL,1.91,1.89,-1.05,-1.4,-0.116,SL,78
+10-25 21:09,spot_trail,XCN,0.00418278,0.00414921,-0.8,-1.2,-0.096,TIME,75
