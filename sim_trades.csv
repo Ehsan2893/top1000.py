@@ -1562,3 +1562,4 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-25 10:59,spot_fixed,DOS,0.253454,0.248144,-2.1,-2.5,-0.2,SL,29
 10-25 10:59,spot_trail,DOS,0.253454,0.248144,-2.1,-2.5,-0.2,SL,29
 10-25 11:27,spot_fixed,BABY,0.01329302,0.01372761,3.27,2.9,0.23,TP,28
+10-25 12:25,spot_trail,BABY,0.01329302,0.01405455,5.73,5.3,0.426,TIME,87
