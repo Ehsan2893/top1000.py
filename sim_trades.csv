@@ -1573,3 +1573,4 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-25 16:31,spot_fixed,KMNO,0.04244033,0.04189502,-1.28,-1.7,-0.135,SL,30
 10-25 16:31,spot_trail,KMNO,0.04244033,0.04189502,-1.28,-1.7,-0.135,SL,30
 10-25 17:02,spot_fixed,SENT,0.02028172,0.0206032,1.59,1.2,0.095,TP,31
+10-25 17:57,spot_trail,SENT,0.02028172,0.02108761,3.97,3.6,0.286,TIME,86
