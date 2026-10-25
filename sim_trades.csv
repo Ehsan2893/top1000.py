@@ -1551,3 +1551,5 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-25 02:54,spot_trail,VVV,24.63,24.83,0.81,0.4,0.033,TIME,96
 10-25 03:59,spot_fixed,GMX,8.4,8.5,1.19,0.8,0.063,TIME,65
 10-25 03:59,spot_trail,GMX,8.4,8.5,1.19,0.8,0.063,TIME,65
+10-25 05:05,spot_fixed,牛来,0.055591,0.05538,-0.38,-0.8,-0.062,TIME,67
+10-25 05:05,spot_trail,牛来,0.055591,0.05538,-0.38,-0.8,-0.062,TRAIL,67
