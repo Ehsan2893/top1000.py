@@ -1587,3 +1587,5 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-26 02:20,spot_trail,RAIN,0.00860835,0.00849504,-1.32,-1.7,-0.137,SL,82
 10-26 03:33,spot_fixed,IRYS,0.03893196,0.0380081,-2.37,-2.8,-0.222,SL,74
 10-26 03:33,spot_trail,IRYS,0.03893196,0.0380081,-2.37,-2.8,-0.222,TRAIL,74
+10-26 04:14,spot_fixed,XEC,6.95e-06,6.85e-06,-1.44,-1.8,-0.147,SL,40
+10-26 04:14,spot_trail,XEC,6.95e-06,6.85e-06,-1.44,-1.8,-0.147,SL,40
