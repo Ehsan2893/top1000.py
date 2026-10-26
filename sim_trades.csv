@@ -1595,3 +1595,4 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-26 06:47,spot_trail,PONS,0.240973,0.238209,-1.15,-1.5,-0.124,SL,44
 10-26 09:14,spot_fixed,XDC,0.03262042,0.03305744,1.34,0.9,0.075,TIME,97
 10-26 09:14,spot_trail,XDC,0.03262042,0.03305744,1.34,0.9,0.075,TIME,97
+10-26 10:03,spot_fixed,QNT,200.68,208.81,4.05,3.7,0.292,TP,48
