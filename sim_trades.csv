@@ -1611,3 +1611,5 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-26 21:01,spot_trail,PEARL,1.83,1.86,1.64,1.2,0.099,TIME,67
 10-26 22:44,spot_fixed,BTW,1.17,1.18,0.85,0.5,0.036,TIME,69
 10-26 22:44,spot_trail,BTW,1.17,1.18,0.85,0.5,0.036,TIME,69
+10-26 23:47,spot_fixed,IRYS,0.02807664,0.02799793,-0.28,-0.7,-0.054,TIME,64
+10-26 23:47,spot_trail,IRYS,0.02807664,0.02799793,-0.28,-0.7,-0.054,TIME,64
