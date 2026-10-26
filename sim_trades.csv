@@ -1589,3 +1589,5 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-26 03:33,spot_trail,IRYS,0.03893196,0.0380081,-2.37,-2.8,-0.222,TRAIL,74
 10-26 04:14,spot_fixed,XEC,6.95e-06,6.85e-06,-1.44,-1.8,-0.147,SL,40
 10-26 04:14,spot_trail,XEC,6.95e-06,6.85e-06,-1.44,-1.8,-0.147,SL,40
+10-26 06:03,spot_fixed,CHIP,0.04563725,0.04688518,2.73,2.3,0.187,TP,69
+10-26 06:03,spot_trail,CHIP,0.04563725,0.04688518,2.73,2.3,0.187,TIME,69
