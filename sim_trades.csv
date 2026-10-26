@@ -1591,3 +1591,5 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-26 04:14,spot_trail,XEC,6.95e-06,6.85e-06,-1.44,-1.8,-0.147,SL,40
 10-26 06:03,spot_fixed,CHIP,0.04563725,0.04688518,2.73,2.3,0.187,TP,69
 10-26 06:03,spot_trail,CHIP,0.04563725,0.04688518,2.73,2.3,0.187,TIME,69
+10-26 06:47,spot_fixed,PONS,0.240973,0.238209,-1.15,-1.5,-0.124,SL,44
+10-26 06:47,spot_trail,PONS,0.240973,0.238209,-1.15,-1.5,-0.124,SL,44
