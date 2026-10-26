@@ -1607,3 +1607,5 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-26 18:21,spot_trail,Q,0.059359,0.069224,16.62,16.2,1.298,TRAIL,74
 10-26 19:54,spot_fixed,MELANIA,0.085947,0.085868,-0.09,-0.5,-0.039,TIME,93
 10-26 19:54,spot_trail,MELANIA,0.085947,0.085868,-0.09,-0.5,-0.039,TIME,93
+10-26 21:01,spot_fixed,PEARL,1.83,1.86,1.64,1.2,0.099,TP,67
+10-26 21:01,spot_trail,PEARL,1.83,1.86,1.64,1.2,0.099,TIME,67
