@@ -1598,3 +1598,5 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-26 10:03,spot_fixed,QNT,200.68,208.81,4.05,3.7,0.292,TP,48
 10-26 10:42,spot_trail,QNT,200.68,209.33,4.31,3.9,0.313,TIME,88
 10-26 11:23,spot_fixed,USELESS,0.160677,0.158837,-1.15,-1.5,-0.124,SL,80
+10-26 13:45,spot_fixed,TAG,0.00051001,0.00054175,6.22,5.8,0.466,TP,143
+10-26 13:45,spot_trail,CTC,0.095236,0.094478,-0.8,-1.2,-0.096,TRAIL,183
