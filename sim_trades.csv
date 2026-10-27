@@ -1635,3 +1635,5 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-27 13:55,spot_trail,CHIP,0.053366,0.052408,-1.8,-2.2,-0.176,SL,102
 10-27 15:29,spot_fixed,IO,0.151262,0.151583,0.21,-0.2,-0.015,TIME,94
 10-27 15:29,spot_trail,IO,0.151262,0.151583,0.21,-0.2,-0.015,TIME,94
+10-27 17:09,spot_fixed,SOXLB,98.42,99.88,1.48,1.1,0.087,TIME,100
+10-27 17:09,spot_trail,SOXLB,98.42,99.88,1.48,1.1,0.087,TIME,100
