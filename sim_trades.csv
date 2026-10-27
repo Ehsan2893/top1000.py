@@ -1643,3 +1643,4 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-27 19:56,spot_fixed,AI,0.063273,0.065885,4.13,3.7,0.298,TP,40
 10-27 19:56,spot_trail,DOS,0.255814,0.262289,2.53,2.1,0.17,TRAIL,91
 10-27 20:31,spot_trail,AI,0.065885,0.064939,-1.44,-1.8,-0.147,SL,35
+10-27 21:10,spot_fixed,GRASS,0.735639,0.732402,-0.44,-0.8,-0.067,TIME,74
