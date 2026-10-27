@@ -1646,3 +1646,4 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-27 21:10,spot_fixed,GRASS,0.735639,0.732402,-0.44,-0.8,-0.067,TIME,74
 10-27 22:20,spot_fixed,NIGHT,0.04134581,0.04116741,-0.43,-0.8,-0.067,TIME,70
 10-27 22:20,spot_trail,NIGHT,0.04134581,0.04116741,-0.43,-0.8,-0.067,TIME,70
+10-27 23:27,spot_fixed,IRYS,0.02562934,0.02616442,2.09,1.7,0.135,TP,31
