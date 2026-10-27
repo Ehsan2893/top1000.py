@@ -1615,3 +1615,5 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-26 23:47,spot_trail,IRYS,0.02807664,0.02799793,-0.28,-0.7,-0.054,TIME,64
 10-27 01:02,spot_fixed,BAT,0.152142,0.145983,-4.05,-4.4,-0.356,SL,75
 10-27 01:02,spot_trail,BAT,0.152142,0.145983,-4.05,-4.4,-0.356,SL,75
+10-27 02:18,spot_fixed,BR,0.495638,0.492226,-0.69,-1.1,-0.087,TIME,76
+10-27 02:18,spot_trail,BR,0.495638,0.492226,-0.69,-1.1,-0.087,TIME,76
