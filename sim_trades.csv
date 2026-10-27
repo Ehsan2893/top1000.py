@@ -1627,3 +1627,5 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-27 08:12,spot_trail,WAL,0.03434427,0.03404304,-0.88,-1.3,-0.102,TRAIL,100
 10-27 09:33,spot_fixed,QNT,208.47,205.38,-1.48,-1.9,-0.151,SL,81
 10-27 09:33,spot_trail,QNT,208.47,205.38,-1.48,-1.9,-0.151,SL,81
+10-27 10:58,spot_fixed,SENT,0.02150806,0.02145781,-0.23,-0.6,-0.051,TIME,85
+10-27 10:58,spot_trail,SENT,0.02150806,0.02145781,-0.23,-0.6,-0.051,TIME,85
