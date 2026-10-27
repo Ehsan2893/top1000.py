@@ -1639,3 +1639,4 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-27 17:09,spot_trail,SOXLB,98.42,99.88,1.48,1.1,0.087,TIME,100
 10-27 18:24,spot_fixed,STONK,0.141781,0.142597,0.58,0.2,0.014,TIME,76
 10-27 18:24,spot_trail,STONK,0.141781,0.142597,0.58,0.2,0.014,TIME,76
+10-27 19:16,spot_fixed,DOS,0.255814,0.265706,3.87,3.5,0.277,TP,51
