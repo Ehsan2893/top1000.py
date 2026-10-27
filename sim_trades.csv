@@ -1620,3 +1620,4 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-27 03:30,spot_fixed,ARC,0.053779,0.053709,-0.13,-0.5,-0.042,TIME,72
 10-27 03:30,spot_trail,ARC,0.053779,0.053709,-0.13,-0.5,-0.042,TIME,72
 10-27 04:43,spot_fixed,BTW,1.29,1.33,3.1,2.7,0.216,TP,34
+10-27 05:17,spot_trail,BTW,1.29,1.32,2.33,1.9,0.154,TIME,68
