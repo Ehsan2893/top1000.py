@@ -1651,3 +1651,5 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-27 23:58,spot_trail,IRYS,0.02562934,0.0262515,2.43,2.0,0.162,TIME,63
 10-28 01:41,spot_fixed,JCT,0.00791502,0.00886254,11.97,11.6,0.926,TP,52
 10-28 01:41,spot_trail,PONS,0.26738,0.283793,6.14,5.7,0.459,TIME,102
+10-28 03:14,spot_fixed,SNDKB,1334.34,1347.38,0.98,0.6,0.046,TIME,93
+10-28 03:14,spot_trail,SNDKB,1334.34,1347.38,0.98,0.6,0.046,TIME,93
