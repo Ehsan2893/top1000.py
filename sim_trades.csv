@@ -1657,3 +1657,5 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-28 04:45,spot_trail,0G,0.206469,0.204301,-1.05,-1.5,-0.116,SL,44
 10-28 06:08,spot_fixed,TAG,0.00069392,0.00069847,0.66,0.3,0.02,TIME,83
 10-28 06:08,spot_trail,TAG,0.00069392,0.00069847,0.66,0.3,0.02,TIME,83
+10-28 08:49,spot_fixed,MUBARAK,0.053526,0.05324,-0.53,-0.9,-0.075,TIME,107
+10-28 08:49,spot_trail,MUBARAK,0.053526,0.05324,-0.53,-0.9,-0.075,TIME,107
