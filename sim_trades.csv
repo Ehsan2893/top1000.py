@@ -1669,3 +1669,4 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-28 13:32,spot_trail,PEARL,1.74,1.84,5.75,5.3,0.428,TIME,102
 10-28 15:22,spot_fixed,UAI,0.258802,0.243877,-5.77,-6.2,-0.493,SL,54
 10-28 15:22,spot_trail,UAI,0.258802,0.243877,-5.77,-6.2,-0.493,SL,54
+10-28 16:15,spot_fixed,TAG,0.00072556,0.00074214,2.29,1.9,0.151,TP,54
