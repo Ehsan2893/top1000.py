@@ -1665,3 +1665,5 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-28 11:51,spot_fixed,CHIP,0.056098,0.051613,-7.99,-8.4,-0.672,SL,43
 10-28 11:51,spot_trail,BABY,0.01477579,0.01483297,0.39,-0.0,-0.001,TRAIL,89
 10-28 12:27,spot_fixed,PEARL,1.74,1.79,2.87,2.5,0.198,TP,36
+10-28 13:32,spot_fixed,JCT,0.00758357,0.00811603,7.02,6.6,0.53,TP,65
+10-28 13:32,spot_trail,PEARL,1.74,1.84,5.75,5.3,0.428,TIME,102
