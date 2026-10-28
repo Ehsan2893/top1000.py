@@ -1653,3 +1653,5 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-28 01:41,spot_trail,PONS,0.26738,0.283793,6.14,5.7,0.459,TIME,102
 10-28 03:14,spot_fixed,SNDKB,1334.34,1347.38,0.98,0.6,0.046,TIME,93
 10-28 03:14,spot_trail,SNDKB,1334.34,1347.38,0.98,0.6,0.046,TIME,93
+10-28 04:45,spot_fixed,0G,0.206469,0.204301,-1.05,-1.5,-0.116,SL,44
+10-28 04:45,spot_trail,0G,0.206469,0.204301,-1.05,-1.5,-0.116,SL,44
