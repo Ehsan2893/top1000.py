@@ -1697,3 +1697,5 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-29 11:39,spot_trail,STONK,0.142671,0.144452,1.25,0.8,0.068,TIME,89
 10-29 13:27,spot_fixed,CC,0.099031,0.103673,4.69,4.3,0.343,TP,108
 10-29 13:27,spot_trail,CC,0.099031,0.103673,4.69,4.3,0.343,TIME,108
+10-29 15:21,spot_fixed,HYPE,91.63,93.79,2.36,2.0,0.157,TP,114
+10-29 15:21,spot_trail,HYPE,91.63,93.79,2.36,2.0,0.157,TIME,114
