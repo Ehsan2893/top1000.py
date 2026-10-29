@@ -1704,3 +1704,4 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-29 17:13,spot_trail,MARSCOIN,0.066499,0.066315,-0.28,-0.7,-0.054,TRAIL,112
 10-29 17:59,spot_fixed,XMR,614.58,603.09,-1.87,-2.3,-0.182,SL,47
 10-29 17:59,spot_trail,XMR,614.58,603.09,-1.87,-2.3,-0.182,SL,47
+10-29 19:34,spot_fixed,DUSK,0.099978,0.102576,2.6,2.2,0.176,TP,46
