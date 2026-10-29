@@ -1700,3 +1700,5 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-29 15:21,spot_fixed,HYPE,91.63,93.79,2.36,2.0,0.157,TP,114
 10-29 15:21,spot_trail,HYPE,91.63,93.79,2.36,2.0,0.157,TIME,114
 10-29 16:17,spot_fixed,MARSCOIN,0.066499,0.068071,2.36,2.0,0.157,TP,56
+10-29 17:13,spot_fixed,PUMP,0.00462839,0.00455153,-1.66,-2.1,-0.165,SL,55
+10-29 17:13,spot_trail,MARSCOIN,0.066499,0.066315,-0.28,-0.7,-0.054,TRAIL,112
