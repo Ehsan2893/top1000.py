@@ -1707,3 +1707,5 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-29 19:34,spot_fixed,DUSK,0.099978,0.102576,2.6,2.2,0.176,TP,46
 10-29 20:20,spot_fixed,SOON,0.32061,0.310892,-3.03,-3.4,-0.274,SL,46
 10-29 20:20,spot_trail,DUSK,0.099978,0.101036,1.06,0.7,0.053,TRAIL,92
+10-29 21:47,spot_fixed,JCT,0.00578596,0.00550357,-4.88,-5.3,-0.422,SL,41
+10-29 21:47,spot_trail,JCT,0.00578596,0.00550357,-4.88,-5.3,-0.422,SL,41
