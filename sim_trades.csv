@@ -1681,3 +1681,5 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-28 22:56,spot_trail,ULTIMA,1296.56,1265.6,-2.39,-2.8,-0.223,SL,81
 10-29 00:05,spot_fixed,KAS,0.03741224,0.03739821,-0.04,-0.4,-0.035,TIME,69
 10-29 00:05,spot_trail,KAS,0.03741224,0.03739821,-0.04,-0.4,-0.035,TIME,69
+10-29 00:57,spot_fixed,MAGMA,0.265146,0.261889,-1.23,-1.6,-0.13,SL,52
+10-29 00:57,spot_trail,MAGMA,0.265146,0.261889,-1.23,-1.6,-0.13,SL,52
