@@ -1744,3 +1744,5 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-30 17:01,spot_trail,POL,0.094837,0.091905,-3.09,-3.5,-0.279,SL,46
 10-30 18:21,spot_fixed,币安人生,0.531807,0.532427,0.12,-0.3,-0.023,TIME,79
 10-30 18:21,spot_trail,币安人生,0.531807,0.532427,0.12,-0.3,-0.023,TIME,79
+10-30 19:57,spot_fixed,OP,0.112133,0.115199,2.73,2.3,0.187,TP,97
+10-30 19:57,spot_trail,OP,0.112133,0.115199,2.73,2.3,0.187,TIME,97
