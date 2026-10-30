@@ -1723,3 +1723,5 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-30 03:52,spot_fixed,PEPE,4.76e-06,4.89e-06,2.73,2.3,0.186,TP,45
 10-30 03:52,spot_trail,RUNE,0.641598,0.671331,4.63,4.2,0.339,TIME,95
 10-30 04:34,spot_fixed,KNTQ,0.495006,0.518671,4.78,4.4,0.35,TP,42
+10-30 05:20,spot_fixed,BEAM,0.00356112,0.00366242,2.84,2.4,0.196,TP,46
+10-30 05:20,spot_trail,KNTQ,0.495006,0.536032,8.29,7.9,0.631,TIME,88
