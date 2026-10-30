@@ -1713,3 +1713,5 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-29 23:06,spot_trail,VSN,0.03924202,0.03765214,-4.05,-4.5,-0.356,SL,42
 10-29 23:42,spot_fixed,KNTQ,0.524323,0.494961,-5.6,-6.0,-0.48,SL,36
 10-29 23:42,spot_trail,KNTQ,0.524323,0.494961,-5.6,-6.0,-0.48,SL,36
+10-30 00:17,spot_fixed,BTW,1.59,1.54,-3.14,-3.5,-0.284,SL,35
+10-30 00:17,spot_trail,BTW,1.59,1.54,-3.14,-3.5,-0.284,SL,35
