@@ -1731,3 +1731,4 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-30 07:56,spot_trail,QNT,194.19,193.32,-0.45,-0.8,-0.068,TRAIL,112
 10-30 09:34,spot_fixed,SUPER,0.160788,0.161799,0.63,0.2,0.018,TIME,98
 10-30 09:34,spot_trail,SUPER,0.160788,0.161799,0.63,0.2,0.018,TIME,98
+10-30 11:09,spot_fixed,UB,0.115737,0.118295,2.21,1.8,0.145,TP,43
