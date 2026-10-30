@@ -1740,3 +1740,5 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-30 14:30,spot_trail,FLOKI,2.368e-05,2.332e-05,-1.52,-1.9,-0.154,SL,57
 10-30 16:15,spot_fixed,HUMA,0.02886884,0.02831987,-1.9,-2.3,-0.184,SL,105
 10-30 16:15,spot_trail,HUMA,0.02886884,0.02831987,-1.9,-2.3,-0.184,SL,105
+10-30 17:01,spot_fixed,POL,0.094837,0.091905,-3.09,-3.5,-0.279,SL,46
+10-30 17:01,spot_trail,POL,0.094837,0.091905,-3.09,-3.5,-0.279,SL,46
