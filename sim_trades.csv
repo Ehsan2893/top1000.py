@@ -1727,3 +1727,5 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-30 05:20,spot_trail,KNTQ,0.495006,0.536032,8.29,7.9,0.631,TIME,88
 10-30 06:05,spot_fixed,PUMP,0.00416065,0.00410074,-1.44,-1.8,-0.147,SL,45
 10-30 06:05,spot_trail,PUMP,0.00416065,0.00410074,-1.44,-1.8,-0.147,SL,45
+10-30 07:56,spot_fixed,QNT,194.19,193.32,-0.45,-0.8,-0.068,TIME,112
+10-30 07:56,spot_trail,QNT,194.19,193.32,-0.45,-0.8,-0.068,TRAIL,112
