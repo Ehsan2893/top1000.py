@@ -1752,3 +1752,5 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-30 22:29,spot_trail,PENDLE,1.81,1.81,0.0,-0.4,-0.032,TIME,73
 10-30 23:43,spot_fixed,IMX,0.124893,0.125689,0.64,0.2,0.019,TIME,74
 10-30 23:43,spot_trail,IMX,0.124893,0.125689,0.64,0.2,0.019,TIME,74
+10-31 01:24,spot_fixed,STONK,0.135585,0.134987,-0.44,-0.8,-0.067,TIME,102
+10-31 01:24,spot_trail,STONK,0.135585,0.134987,-0.44,-0.8,-0.067,TRAIL,102
