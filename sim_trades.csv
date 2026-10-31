@@ -1772,3 +1772,5 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-31 12:49,spot_trail,PROM,5.41,5.53,2.22,1.8,0.145,TIME,83
 10-31 14:15,spot_fixed,KNTQ,0.531393,0.525763,-1.06,-1.5,-0.117,SL,86
 10-31 14:15,spot_trail,KNTQ,0.531393,0.525763,-1.06,-1.5,-0.117,SL,86
+10-31 15:23,spot_fixed,HOT,0.00035461,0.00035339,-0.34,-0.7,-0.06,TIME,68
+10-31 15:23,spot_trail,HOT,0.00035461,0.00035339,-0.34,-0.7,-0.06,TIME,68
