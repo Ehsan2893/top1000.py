@@ -1756,3 +1756,5 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-31 01:24,spot_trail,STONK,0.135585,0.134987,-0.44,-0.8,-0.067,TRAIL,102
 10-31 03:04,spot_fixed,COW,0.118915,0.118097,-0.69,-1.1,-0.087,TIME,100
 10-31 03:04,spot_trail,COW,0.118915,0.118097,-0.69,-1.1,-0.087,TIME,100
+10-31 04:27,spot_fixed,CAP,0.087041,0.085516,-1.75,-2.2,-0.172,SL,83
+10-31 04:27,spot_trail,CAP,0.087041,0.085516,-1.75,-2.2,-0.172,TRAIL,83
