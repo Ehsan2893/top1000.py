@@ -1776,3 +1776,4 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-31 15:23,spot_trail,HOT,0.00035461,0.00035339,-0.34,-0.7,-0.06,TIME,68
 10-31 15:58,spot_fixed,RSR,0.00162501,0.0016901,4.01,3.6,0.288,TP,35
 10-31 16:35,spot_trail,RSR,0.00162501,0.00159944,-1.57,-2.0,-0.158,TRAIL,72
+10-31 17:12,spot_fixed,LIT,2.9,2.94,1.38,1.0,0.078,TIME,73
