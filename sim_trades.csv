@@ -1811,3 +1811,5 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 11-01 15:37,spot_fixed,RAIN,0.00627675,0.0063714,1.51,1.1,0.089,TP,35
 11-01 16:14,spot_fixed,SOON,0.284625,0.291356,2.36,2.0,0.157,TP,37
 11-01 16:14,spot_trail,RAIN,0.00627675,0.00645208,2.79,2.4,0.191,TIME,72
+11-01 17:57,spot_fixed,NIGHT,0.04248421,0.04272088,0.56,0.2,0.013,TIME,64
+11-01 17:57,spot_trail,NIGHT,0.04248421,0.04272088,0.56,0.2,0.013,TIME,64
