@@ -1804,3 +1804,4 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 11-01 11:02,spot_trail,USELESS,0.133399,0.132876,-0.39,-0.8,-0.063,TRAIL,78
 11-01 11:37,spot_fixed,PEARL,1.49,1.52,2.01,1.6,0.129,TP,35
 11-01 12:13,spot_trail,PEARL,1.49,1.52,2.01,1.6,0.129,TIME,71
+11-01 13:08,spot_fixed,AKE,0.00933525,0.00914749,-2.01,-2.4,-0.193,SL,90
