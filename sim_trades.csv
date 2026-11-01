@@ -1818,3 +1818,5 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 11-01 19:57,spot_fixed,HOT,0.00039304,0.00039795,1.25,0.8,0.068,TIME,81
 11-01 19:57,spot_trail,HOT,0.00039304,0.00039795,1.25,0.8,0.068,TIME,81
 11-01 20:30,spot_fixed,Q,0.0323352,0.0329193,1.81,1.4,0.113,TP,33
+11-01 21:08,spot_fixed,BEAM,0.0053679,0.00554472,3.29,2.9,0.232,TP,38
+11-01 21:08,spot_trail,Q,0.0323352,0.03066115,-5.18,-5.6,-0.446,TRAIL,72
