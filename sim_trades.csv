@@ -1808,3 +1808,4 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 11-01 13:51,spot_fixed,RSR,0.00153943,0.00159601,3.68,3.3,0.262,TP,44
 11-01 14:24,spot_fixed,XPL,0.075426,0.074487,-1.24,-1.6,-0.132,SL,33
 11-01 14:24,spot_trail,RSR,0.00153943,0.00153424,-0.34,-0.7,-0.059,TRAIL,77
+11-01 15:37,spot_fixed,RAIN,0.00627675,0.0063714,1.51,1.1,0.089,TP,35
