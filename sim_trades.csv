@@ -1802,3 +1802,4 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 11-01 09:45,spot_trail,XPL,0.074316,0.073834,-0.65,-1.0,-0.084,TRAIL,90
 11-01 11:02,spot_fixed,USELESS,0.133399,0.132876,-0.39,-0.8,-0.063,TIME,78
 11-01 11:02,spot_trail,USELESS,0.133399,0.132876,-0.39,-0.8,-0.063,TRAIL,78
+11-01 11:37,spot_fixed,PEARL,1.49,1.52,2.01,1.6,0.129,TP,35
