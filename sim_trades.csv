@@ -1815,3 +1815,5 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 11-01 17:57,spot_trail,NIGHT,0.04248421,0.04272088,0.56,0.2,0.013,TIME,64
 11-01 18:36,spot_fixed,BIO,0.02405902,0.02355337,-2.1,-2.5,-0.2,SL,39
 11-01 18:36,spot_trail,BIO,0.02405902,0.02355337,-2.1,-2.5,-0.2,SL,39
+11-01 19:57,spot_fixed,HOT,0.00039304,0.00039795,1.25,0.8,0.068,TIME,81
+11-01 19:57,spot_trail,HOT,0.00039304,0.00039795,1.25,0.8,0.068,TIME,81
