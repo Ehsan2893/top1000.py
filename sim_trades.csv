@@ -1789,3 +1789,4 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 10-31 22:30,spot_trail,牛来,0.061373,0.060613,-1.24,-1.6,-0.131,SL,33
 10-31 23:05,spot_fixed,CC,0.098616,0.097625,-1.0,-1.4,-0.112,SL,35
 10-31 23:05,spot_trail,CC,0.098616,0.097625,-1.0,-1.4,-0.112,SL,35
+11-01 02:16,spot_fixed,RSR,0.00152254,0.00154626,1.56,1.2,0.093,TP,55
