@@ -1798,3 +1798,5 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 11-01 07:23,spot_trail,AVAX,8.89,8.93,0.45,0.0,0.004,TIME,116
 11-01 08:14,spot_fixed,KITE,0.123894,0.12198,-1.54,-1.9,-0.156,SL,51
 11-01 08:14,spot_trail,KITE,0.123894,0.12198,-1.54,-1.9,-0.156,SL,51
+11-01 09:45,spot_fixed,XPL,0.074316,0.073834,-0.65,-1.0,-0.084,TIME,90
+11-01 09:45,spot_trail,XPL,0.074316,0.073834,-0.65,-1.0,-0.084,TRAIL,90
