@@ -1823,3 +1823,4 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 11-01 21:43,spot_fixed,RAIN,0.00710245,0.00657095,-7.48,-7.9,-0.631,SL,34
 11-01 21:43,spot_trail,RAIN,0.00710245,0.00657095,-7.48,-7.9,-0.631,SL,34
 11-01 22:55,spot_fixed,COW,0.115563,0.113351,-1.91,-2.3,-0.185,SL,72
+11-02 01:01,spot_fixed,STX,0.32977,0.32332,-1.96,-2.4,-0.188,SL,59
