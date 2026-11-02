@@ -1837,3 +1837,4 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 11-02 16:30,spot_fixed,USELESS,0.127942,0.125872,-1.62,-2.0,-0.161,SL,63
 11-02 20:53,spot_fixed,AI,0.055475,0.057132,2.99,2.6,0.207,TP,43
 11-02 22:20,spot_fixed,JCT,0.00457332,0.00459745,0.53,0.1,0.01,TIME,87
+11-02 23:00,spot_fixed,GRASS,0.563279,0.556383,-1.22,-1.6,-0.13,SL,40
