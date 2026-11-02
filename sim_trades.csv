@@ -1825,3 +1825,4 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 11-01 22:55,spot_fixed,COW,0.115563,0.113351,-1.91,-2.3,-0.185,SL,72
 11-02 01:01,spot_fixed,STX,0.32977,0.32332,-1.96,-2.4,-0.188,SL,59
 11-02 02:03,spot_fixed,T,0.00471968,0.00471273,-0.15,-0.5,-0.044,TIME,62
+11-02 03:43,spot_fixed,CAP,0.07307,0.070818,-3.08,-3.5,-0.279,SL,50
