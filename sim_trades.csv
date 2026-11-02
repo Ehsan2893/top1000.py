@@ -1834,3 +1834,4 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 11-02 13:19,spot_fixed,RUNE,0.533388,0.540157,1.27,0.9,0.07,TIME,69
 11-02 14:30,spot_fixed,RAIN,0.00649854,0.00656005,0.95,0.5,0.044,TIME,71
 11-02 15:27,spot_fixed,MEGA,0.04594852,0.0445039,-3.14,-3.5,-0.284,SL,57
+11-02 16:30,spot_fixed,USELESS,0.127942,0.125872,-1.62,-2.0,-0.161,SL,63
