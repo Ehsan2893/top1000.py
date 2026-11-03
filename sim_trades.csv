@@ -1854,3 +1854,4 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 11-03 18:55,spot_fixed,0G,0.155598,0.154929,-0.43,-0.8,-0.066,TIME,98
 11-03 20:29,spot_fixed,AI,0.059578,0.057023,-4.29,-4.7,-0.375,SL,94
 11-03 21:19,spot_fixed,AIN,0.284152,0.275144,-3.17,-3.6,-0.286,SL,50
+11-03 22:07,spot_fixed,2Z,0.02311014,0.02384366,3.17,2.8,0.222,TP,48
