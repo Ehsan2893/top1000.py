@@ -1839,3 +1839,4 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 11-02 22:20,spot_fixed,JCT,0.00457332,0.00459745,0.53,0.1,0.01,TIME,87
 11-02 23:00,spot_fixed,GRASS,0.563279,0.556383,-1.22,-1.6,-0.13,SL,40
 11-02 23:37,spot_fixed,Q,0.02909415,0.0281216,-3.34,-3.7,-0.299,SL,37
+11-03 00:13,spot_fixed,RAIN,0.00689784,0.0068181,-1.16,-1.6,-0.124,SL,36
