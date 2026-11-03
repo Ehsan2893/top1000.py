@@ -1842,3 +1842,4 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 11-03 00:13,spot_fixed,RAIN,0.00689784,0.0068181,-1.16,-1.6,-0.124,SL,36
 11-03 01:22,spot_fixed,JCT,0.00479495,0.00479963,0.1,-0.3,-0.024,TIME,70
 11-03 03:10,spot_fixed,PONS,0.209098,0.20702,-0.99,-1.4,-0.112,TIME,108
+11-03 04:02,spot_fixed,PIEVERSE,1.14,1.18,3.51,3.1,0.249,TP,51
