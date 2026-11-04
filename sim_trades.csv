@@ -1860,3 +1860,4 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 11-04 02:51,spot_fixed,MAGMA,0.394032,0.383497,-2.67,-3.1,-0.246,SL,105
 11-04 03:36,spot_fixed,BTW,0.991615,0.976542,-1.52,-1.9,-0.154,SL,45
 11-04 06:35,spot_fixed,MON,0.01827886,0.01856481,1.56,1.2,0.093,TP,62
+11-04 07:53,spot_fixed,VVV,23.31,24.18,3.73,3.3,0.267,TP,78
