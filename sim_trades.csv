@@ -1868,3 +1868,4 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 11-04 14:43,spot_fixed,BEAM,0.0045562,0.00430731,-5.46,-5.9,-0.469,SL,57
 11-04 15:38,spot_fixed,PIEVERSE,1.18,1.2,1.69,1.3,0.104,TP,55
 11-04 16:33,spot_fixed,SAND,0.04705287,0.04638787,-1.41,-1.8,-0.145,SL,55
+11-04 18:23,spot_fixed,UNI,7.68,7.68,0.0,-0.4,-0.032,TIME,110
