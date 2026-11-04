@@ -1863,3 +1863,4 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 11-04 07:53,spot_fixed,VVV,23.31,24.18,3.73,3.3,0.267,TP,78
 11-04 09:43,spot_fixed,AI,0.060173,0.060298,0.21,-0.2,-0.015,TIME,110
 11-04 10:51,spot_fixed,KNTQ,0.503249,0.505517,0.45,0.1,0.004,TIME,68
+11-04 12:34,spot_fixed,STX,0.347513,0.346994,-0.15,-0.5,-0.044,TIME,103
