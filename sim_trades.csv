@@ -1873,3 +1873,4 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 11-04 21:13,spot_fixed,BP,0.990502,1.0,0.96,0.6,0.045,TIME,106
 11-04 22:47,spot_fixed,WLFI,0.04823311,0.04790541,-0.68,-1.1,-0.086,TIME,94
 11-04 23:27,spot_fixed,CHIP,0.0441821,0.04355822,-1.41,-1.8,-0.145,SL,40
+11-05 00:11,spot_fixed,MELANIA,0.06758,0.06462,-4.38,-4.8,-0.382,SL,44
