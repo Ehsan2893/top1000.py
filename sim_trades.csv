@@ -1882,3 +1882,4 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 11-05 07:46,spot_fixed,STABLE,0.02830329,0.02883236,1.87,1.5,0.118,TP,83
 11-05 08:42,spot_fixed,MEGA,0.04731132,0.04820798,1.9,1.5,0.12,TP,56
 11-05 09:41,spot_fixed,ORCA,1.48,1.46,-1.35,-1.8,-0.14,SL,58
+11-05 10:43,spot_fixed,DGAI,0.813767,0.857786,5.41,5.0,0.401,TP,62
