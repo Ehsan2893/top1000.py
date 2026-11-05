@@ -1887,3 +1887,4 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 11-05 13:54,spot_fixed,KNTQ,0.474217,0.460993,-2.79,-3.2,-0.255,SL,78
 11-05 15:43,spot_fixed,ARX,0.241441,0.22818,-5.49,-5.9,-0.471,SL,109
 11-05 20:20,spot_fixed,RAIN,0.00614371,0.00599906,-2.35,-2.8,-0.22,SL,110
+11-05 21:58,spot_fixed,BONK,2.88e-06,2.87e-06,-0.35,-0.7,-0.06,TIME,98
