@@ -1875,3 +1875,4 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 11-04 23:27,spot_fixed,CHIP,0.0441821,0.04355822,-1.41,-1.8,-0.145,SL,40
 11-05 00:11,spot_fixed,MELANIA,0.06758,0.06462,-4.38,-4.8,-0.382,SL,44
 11-05 01:21,spot_fixed,ICNT,0.219756,0.225095,2.43,2.0,0.162,TP,70
+11-05 03:16,spot_fixed,RUNE,0.670052,0.662702,-1.1,-1.5,-0.12,SL,51
