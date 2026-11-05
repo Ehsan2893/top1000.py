@@ -1884,3 +1884,4 @@ time,variant,symbol,entry,exit,price_pct,roi_pct,profit_usd,reason,minutes
 11-05 09:41,spot_fixed,ORCA,1.48,1.46,-1.35,-1.8,-0.14,SL,58
 11-05 10:43,spot_fixed,DGAI,0.813767,0.857786,5.41,5.0,0.401,TP,62
 11-05 12:36,spot_fixed,MELANIA,0.06529,0.06361,-2.57,-3.0,-0.238,SL,114
+11-05 13:54,spot_fixed,KNTQ,0.474217,0.460993,-2.79,-3.2,-0.255,SL,78
